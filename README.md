@@ -26,6 +26,12 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#32](https://github.com//greencoast-studios/discord-cards-against-humanity/pull/32) in [greencoast-studios/discord-cards-against-humanity](https://github.com//greencoast-studios/discord-cards-against-humanity)
+2. ❌ Closed PR [#5](https://github.com//greencoast-studios/cards-against-humanity-api/pull/5) in [greencoast-studios/cards-against-humanity-api](https://github.com//greencoast-studios/cards-against-humanity-api)
+3. ❌ Closed PR [#29](https://github.com//greencoast-studios/discord-cards-against-humanity/pull/29) in [greencoast-studios/discord-cards-against-humanity](https://github.com//greencoast-studios/discord-cards-against-humanity)
+4. ❌ Closed PR [#30](https://github.com//greencoast-studios/discord-cards-against-humanity/pull/30) in [greencoast-studios/discord-cards-against-humanity](https://github.com//greencoast-studios/discord-cards-against-humanity)
+5. 🎉 Merged PR [#31](https://github.com//greencoast-studios/discord-cards-against-humanity/pull/31) in [greencoast-studios/discord-cards-against-humanity](https://github.com//greencoast-studios/discord-cards-against-humanity)
+<!--END_SECTION:activity-->
 
 ---
 
