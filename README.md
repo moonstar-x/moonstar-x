@@ -26,10 +26,10 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//greencoast-studios/twitter-today-is/pull/1) in [greencoast-studios/twitter-today-is](https://github.com//greencoast-studios/twitter-today-is)
-2. 💪 Opened PR [#1](https://github.com//greencoast-studios/twitter-today-is/pull/1) in [greencoast-studios/twitter-today-is](https://github.com//greencoast-studios/twitter-today-is)
-3. 💪 Opened PR [#1](https://github.com//moonstar-x/twitter-today-is/pull/1) in [moonstar-x/twitter-today-is](https://github.com//moonstar-x/twitter-today-is)
-4. 🗣 Commented on [#23](https://github.com//moonstar-x/discord-tts-bot/issues/23) in [moonstar-x/discord-tts-bot](https://github.com//moonstar-x/discord-tts-bot)
+1. 🎉 Merged PR [#1](https://github.com//moonstar-x/twitter-today-is/pull/1) in [moonstar-x/twitter-today-is](https://github.com//moonstar-x/twitter-today-is)
+2. 🎉 Merged PR [#1](https://github.com//greencoast-studios/twitter-today-is/pull/1) in [greencoast-studios/twitter-today-is](https://github.com//greencoast-studios/twitter-today-is)
+3. 💪 Opened PR [#1](https://github.com//greencoast-studios/twitter-today-is/pull/1) in [greencoast-studios/twitter-today-is](https://github.com//greencoast-studios/twitter-today-is)
+4. 💪 Opened PR [#1](https://github.com//moonstar-x/twitter-today-is/pull/1) in [moonstar-x/twitter-today-is](https://github.com//moonstar-x/twitter-today-is)
 5. 🗣 Commented on [#23](https://github.com//moonstar-x/discord-tts-bot/issues/23) in [moonstar-x/discord-tts-bot](https://github.com//moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
