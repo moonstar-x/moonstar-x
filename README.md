@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com//moonstar-x/discord-music-24-7/issues/11) in [moonstar-x/discord-music-24-7](https://github.com//moonstar-x/discord-music-24-7)
+1. ❗️ Closed issue [#11](https://github.com//moonstar-x/discord-music-24-7/issues/11) in [moonstar-x/discord-music-24-7](https://github.com//moonstar-x/discord-music-24-7)
 2. 🗣 Commented on [#11](https://github.com//moonstar-x/discord-music-24-7/issues/11) in [moonstar-x/discord-music-24-7](https://github.com//moonstar-x/discord-music-24-7)
-3. 🎉 Merged PR [#1](https://github.com//moonstar-x/twitter-today-is/pull/1) in [moonstar-x/twitter-today-is](https://github.com//moonstar-x/twitter-today-is)
-4. 🎉 Merged PR [#1](https://github.com//greencoast-studios/twitter-today-is/pull/1) in [greencoast-studios/twitter-today-is](https://github.com//greencoast-studios/twitter-today-is)
-5. 💪 Opened PR [#1](https://github.com//greencoast-studios/twitter-today-is/pull/1) in [greencoast-studios/twitter-today-is](https://github.com//greencoast-studios/twitter-today-is)
+3. 🗣 Commented on [#11](https://github.com//moonstar-x/discord-music-24-7/issues/11) in [moonstar-x/discord-music-24-7](https://github.com//moonstar-x/discord-music-24-7)
+4. 🎉 Merged PR [#1](https://github.com//moonstar-x/twitter-today-is/pull/1) in [moonstar-x/twitter-today-is](https://github.com//moonstar-x/twitter-today-is)
+5. 🎉 Merged PR [#1](https://github.com//greencoast-studios/twitter-today-is/pull/1) in [greencoast-studios/twitter-today-is](https://github.com//greencoast-studios/twitter-today-is)
 <!--END_SECTION:activity-->
 
 ---
