@@ -26,10 +26,10 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//greencoast-studios/ci-test/pull/1) in [greencoast-studios/ci-test](https://github.com//greencoast-studios/ci-test)
-2. 💪 Opened PR [#1](https://github.com//greencoast-studios/ci-test/pull/1) in [greencoast-studios/ci-test](https://github.com//greencoast-studios/ci-test)
-3. ❗️ Closed issue [#14](https://github.com//moonstar-x/discord-music-24-7/issues/14) in [moonstar-x/discord-music-24-7](https://github.com//moonstar-x/discord-music-24-7)
-4. 🗣 Commented on [#14](https://github.com//moonstar-x/discord-music-24-7/issues/14) in [moonstar-x/discord-music-24-7](https://github.com//moonstar-x/discord-music-24-7)
+1. ❗️ Opened issue [#2](https://github.com//greencoast-studios/ci-test/issues/2) in [greencoast-studios/ci-test](https://github.com//greencoast-studios/ci-test)
+2. 🎉 Merged PR [#1](https://github.com//greencoast-studios/ci-test/pull/1) in [greencoast-studios/ci-test](https://github.com//greencoast-studios/ci-test)
+3. 💪 Opened PR [#1](https://github.com//greencoast-studios/ci-test/pull/1) in [greencoast-studios/ci-test](https://github.com//greencoast-studios/ci-test)
+4. ❗️ Closed issue [#14](https://github.com//moonstar-x/discord-music-24-7/issues/14) in [moonstar-x/discord-music-24-7](https://github.com//moonstar-x/discord-music-24-7)
 5. 🗣 Commented on [#14](https://github.com//moonstar-x/discord-music-24-7/issues/14) in [moonstar-x/discord-music-24-7](https://github.com//moonstar-x/discord-music-24-7)
 <!--END_SECTION:activity-->
 
