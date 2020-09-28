@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/greencoast-studios/discord-support-tickets/pull/13) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-2. 💪 Opened PR [#13](https://github.com/greencoast-studios/discord-support-tickets/pull/13) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-3. 🎉 Merged PR [#12](https://github.com/greencoast-studios/discord-support-tickets/pull/12) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-4. 💪 Opened PR [#12](https://github.com/greencoast-studios/discord-support-tickets/pull/12) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-5. 🎉 Merged PR [#11](https://github.com/greencoast-studios/discord-support-tickets/pull/11) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+1. 🗣 Commented on [#26](https://github.com/moonstar-x/react-twitch-embed/issues/26) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+2. 🎉 Merged PR [#13](https://github.com/greencoast-studios/discord-support-tickets/pull/13) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+3. 💪 Opened PR [#13](https://github.com/greencoast-studios/discord-support-tickets/pull/13) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+4. 🎉 Merged PR [#12](https://github.com/greencoast-studios/discord-support-tickets/pull/12) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+5. 💪 Opened PR [#12](https://github.com/greencoast-studios/discord-support-tickets/pull/12) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
 <!--END_SECTION:activity-->
 
 ---
