@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/greencoast-studios/discord-support-tickets/pull/9) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-2. 💪 Opened PR [#9](https://github.com/greencoast-studios/discord-support-tickets/pull/9) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-3. 🎉 Merged PR [#8](https://github.com/greencoast-studios/discord-support-tickets/pull/8) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-4. 🎉 Merged PR [#7](https://github.com/greencoast-studios/discord-support-tickets/pull/7) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-5. 🎉 Merged PR [#6](https://github.com/greencoast-studios/discord-support-tickets/pull/6) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+1. 🎉 Merged PR [#11](https://github.com/greencoast-studios/discord-support-tickets/pull/11) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+2. 💪 Opened PR [#11](https://github.com/greencoast-studios/discord-support-tickets/pull/11) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+3. 🎉 Merged PR [#10](https://github.com/greencoast-studios/discord-support-tickets/pull/10) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+4. 💪 Opened PR [#10](https://github.com/greencoast-studios/discord-support-tickets/pull/10) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+5. 🎉 Merged PR [#9](https://github.com/greencoast-studios/discord-support-tickets/pull/9) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
 <!--END_SECTION:activity-->
 
 ---
