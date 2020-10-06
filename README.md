@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/moonstar-x/discord-music-24-7/pull/16) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-music-24-7/issues/16) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-3. 🗣 Commented on [#26](https://github.com/moonstar-x/react-twitch-embed/issues/26) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+1. 🗣 Commented on [#27](https://github.com/moonstar-x/react-twitch-embed/issues/27) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+2. ❌ Closed PR [#16](https://github.com/moonstar-x/discord-music-24-7/pull/16) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+3. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-music-24-7/issues/16) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 4. 🗣 Commented on [#26](https://github.com/moonstar-x/react-twitch-embed/issues/26) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
-5. 🎉 Merged PR [#13](https://github.com/greencoast-studios/discord-support-tickets/pull/13) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+5. 🗣 Commented on [#26](https://github.com/moonstar-x/react-twitch-embed/issues/26) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
 <!--END_SECTION:activity-->
 
 ---
