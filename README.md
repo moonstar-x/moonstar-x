@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/manos-al-codigo/guia/pull/1) in [manos-al-codigo/guia](https://github.com/manos-al-codigo/guia)
-2. 💪 Opened PR [#1](https://github.com/manos-al-codigo/guia/pull/1) in [manos-al-codigo/guia](https://github.com/manos-al-codigo/guia)
-3. 🎉 Merged PR [#1](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/1) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
-4. 💪 Opened PR [#1](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/1) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
-5. 🎉 Merged PR [#17](https://github.com/greencoast-studios/discord-support-tickets/pull/17) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+1. 🗣 Commented on [#24](https://github.com/moonstar-x/discord-tts-bot/issues/24) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🎉 Merged PR [#1](https://github.com/manos-al-codigo/guia/pull/1) in [manos-al-codigo/guia](https://github.com/manos-al-codigo/guia)
+3. 💪 Opened PR [#1](https://github.com/manos-al-codigo/guia/pull/1) in [manos-al-codigo/guia](https://github.com/manos-al-codigo/guia)
+4. 🎉 Merged PR [#1](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/1) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
+5. 💪 Opened PR [#1](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/1) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
 <!--END_SECTION:activity-->
 
 ---
