@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/moonstar-x/discord-music-24-7/issues/19) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🗣 Commented on [#19](https://github.com/moonstar-x/discord-music-24-7/issues/19) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-3. ❗️ Closed issue [#20](https://github.com/moonstar-x/discord-music-24-7/issues/20) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-4. 🗣 Commented on [#20](https://github.com/moonstar-x/discord-music-24-7/issues/20) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-5. 🗣 Commented on [#20](https://github.com/moonstar-x/discord-music-24-7/issues/20) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+1. 🎉 Merged PR [#3](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/3) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
+2. 💪 Opened PR [#3](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/3) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
+3. ❗️ Closed issue [#19](https://github.com/moonstar-x/discord-music-24-7/issues/19) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 🗣 Commented on [#19](https://github.com/moonstar-x/discord-music-24-7/issues/19) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. ❗️ Closed issue [#20](https://github.com/moonstar-x/discord-music-24-7/issues/20) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 <!--END_SECTION:activity-->
 
 ---
