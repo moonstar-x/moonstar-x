@@ -27,10 +27,10 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-music-24-7/issues/22) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🗣 Commented on [#635](https://github.com/fent/node-ytdl-core/issues/635) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
-3. 🎉 Merged PR [#21](https://github.com/moonstar-x/discord-music-24-7/pull/21) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-4. 💪 Opened PR [#21](https://github.com/moonstar-x/discord-music-24-7/pull/21) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-5. ❗️ Reopened issue [#24](https://github.com/moonstar-x/discord-tts-bot/issues/24) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-music-24-7/issues/22) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+3. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-music-24-7/issues/22) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 🗣 Commented on [#635](https://github.com/fent/node-ytdl-core/issues/635) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
+5. 🎉 Merged PR [#21](https://github.com/moonstar-x/discord-music-24-7/pull/21) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 <!--END_SECTION:activity-->
 
 ---
