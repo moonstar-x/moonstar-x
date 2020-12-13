@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/moonstar-x/discord-tts-bot/pull/27) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-2. 🎉 Merged PR [#24](https://github.com/moonstar-x/discord-music-24-7/pull/24) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-3. 🎉 Merged PR [#11](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/11) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
-4. 💪 Opened PR [#11](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/11) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
-5. ❗️ Closed issue [#23](https://github.com/moonstar-x/discord-music-24-7/issues/23) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+1. 🎉 Merged PR [#19](https://github.com/greencoast-studios/discord-support-tickets/pull/19) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+2. 🎉 Merged PR [#27](https://github.com/moonstar-x/discord-tts-bot/pull/27) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+3. 🎉 Merged PR [#24](https://github.com/moonstar-x/discord-music-24-7/pull/24) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 🎉 Merged PR [#11](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/11) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
+5. 💪 Opened PR [#11](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/11) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
 <!--END_SECTION:activity-->
 
 ---
