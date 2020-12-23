@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/17) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
-2. 💪 Opened PR [#17](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/17) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
-3. 🎉 Merged PR [#16](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/16) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
-4. 💪 Opened PR [#16](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/16) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
-5. 🎉 Merged PR [#15](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/15) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
+1. 💪 Opened PR [#25](https://github.com/moonstar-x/discord-music-24-7/pull/25) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+2. 🎉 Merged PR [#17](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/17) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
+3. 💪 Opened PR [#17](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/17) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
+4. 🎉 Merged PR [#16](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/16) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
+5. 💪 Opened PR [#16](https://github.com/manos-al-codigo/manos-al-codigo.github.io/pull/16) in [manos-al-codigo/manos-al-codigo.github.io](https://github.com/manos-al-codigo/manos-al-codigo.github.io)
 <!--END_SECTION:activity-->
 
 ---
