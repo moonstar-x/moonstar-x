@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/moonstar-x/discord-music-24-7/pull/27) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 💪 Opened PR [#27](https://github.com/moonstar-x/discord-music-24-7/pull/27) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-3. 🎉 Merged PR [#26](https://github.com/moonstar-x/discord-music-24-7/pull/26) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-4. 💪 Opened PR [#26](https://github.com/moonstar-x/discord-music-24-7/pull/26) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-5. 🎉 Merged PR [#25](https://github.com/moonstar-x/discord-music-24-7/pull/25) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+1. 🎉 Merged PR [#28](https://github.com/moonstar-x/discord-music-24-7/pull/28) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+2. 💪 Opened PR [#28](https://github.com/moonstar-x/discord-music-24-7/pull/28) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+3. 🎉 Merged PR [#27](https://github.com/moonstar-x/discord-music-24-7/pull/27) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 💪 Opened PR [#27](https://github.com/moonstar-x/discord-music-24-7/pull/27) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. 🎉 Merged PR [#26](https://github.com/moonstar-x/discord-music-24-7/pull/26) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 <!--END_SECTION:activity-->
 
 ---
