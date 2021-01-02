@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/moonstar-x/discord-music-24-7/pull/33) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 💪 Opened PR [#33](https://github.com/moonstar-x/discord-music-24-7/pull/33) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-3. 🎉 Merged PR [#29](https://github.com/moonstar-x/discord-tts-bot/pull/29) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-4. 💪 Opened PR [#29](https://github.com/moonstar-x/discord-tts-bot/pull/29) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-5. ❗️ Closed issue [#24](https://github.com/moonstar-x/discord-tts-bot/issues/24) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+1. 🎉 Merged PR [#1](https://github.com/moonstar-x/discord-free-games-notifier/pull/1) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+2. 💪 Opened PR [#1](https://github.com/moonstar-x/discord-free-games-notifier/pull/1) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+3. 🎉 Merged PR [#33](https://github.com/moonstar-x/discord-music-24-7/pull/33) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 💪 Opened PR [#33](https://github.com/moonstar-x/discord-music-24-7/pull/33) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. 🎉 Merged PR [#29](https://github.com/moonstar-x/discord-tts-bot/pull/29) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
 ---
