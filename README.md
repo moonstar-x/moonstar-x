@@ -26,11 +26,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/moonstar-x/discord-free-games-notifier/pull/3) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-2. 💪 Opened PR [#3](https://github.com/moonstar-x/discord-free-games-notifier/pull/3) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-3. 🎉 Merged PR [#20](https://github.com/greencoast-studios/discord-support-tickets/pull/20) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-4. 🎉 Merged PR [#2](https://github.com/moonstar-x/discord-free-games-notifier/pull/2) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-5. 💪 Opened PR [#2](https://github.com/moonstar-x/discord-free-games-notifier/pull/2) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+1. 🎉 Merged PR [#4](https://github.com/moonstar-x/discord-free-games-notifier/pull/4) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+2. 💪 Opened PR [#4](https://github.com/moonstar-x/discord-free-games-notifier/pull/4) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+3. 🎉 Merged PR [#3](https://github.com/moonstar-x/discord-free-games-notifier/pull/3) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+4. 💪 Opened PR [#3](https://github.com/moonstar-x/discord-free-games-notifier/pull/3) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+5. 🎉 Merged PR [#20](https://github.com/greencoast-studios/discord-support-tickets/pull/20) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
 <!--END_SECTION:activity-->
 
 ---
