@@ -19,6 +19,7 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :rocket: Some of My Projects
 
 * [discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+* [discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
 * [discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 * [discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 * [react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
