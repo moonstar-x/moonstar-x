@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-music-24-7/issues/22) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🎉 Merged PR [#23](https://github.com/greencoast-studios/discord-support-tickets/pull/23) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-3. 💪 Opened PR [#23](https://github.com/greencoast-studios/discord-support-tickets/pull/23) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-4. 🎉 Merged PR [#22](https://github.com/greencoast-studios/discord-support-tickets/pull/22) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
-5. 💪 Opened PR [#22](https://github.com/greencoast-studios/discord-support-tickets/pull/22) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+1. 🗣 Commented on [#31](https://github.com/moonstar-x/discord-tts-bot/issues/31) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-music-24-7/issues/22) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+3. 🎉 Merged PR [#23](https://github.com/greencoast-studios/discord-support-tickets/pull/23) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+4. 💪 Opened PR [#23](https://github.com/greencoast-studios/discord-support-tickets/pull/23) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
+5. 🎉 Merged PR [#22](https://github.com/greencoast-studios/discord-support-tickets/pull/22) in [greencoast-studios/discord-support-tickets](https://github.com/greencoast-studios/discord-support-tickets)
 <!--END_SECTION:activity-->
 
 ---
