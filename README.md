@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/1) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-2. 💪 Opened PR [#1](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/1) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-3. 🎉 Merged PR [#32](https://github.com/moonstar-x/discord-tts-bot/pull/32) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-4. 💪 Opened PR [#32](https://github.com/moonstar-x/discord-tts-bot/pull/32) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-5. ❗️ Closed issue [#31](https://github.com/moonstar-x/discord-tts-bot/issues/31) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+1. 🎉 Merged PR [#2](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/2) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+2. 💪 Opened PR [#2](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/2) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+3. 🎉 Merged PR [#1](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/1) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+4. 💪 Opened PR [#1](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/1) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+5. 🎉 Merged PR [#32](https://github.com/moonstar-x/discord-tts-bot/pull/32) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
 ---
