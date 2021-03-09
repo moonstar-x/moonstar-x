@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/7) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-2. 💪 Opened PR [#7](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/7) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-3. 🎉 Merged PR [#6](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/6) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-4. 💪 Opened PR [#6](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/6) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-5. 🎉 Merged PR [#5](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/5) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+1. 🎉 Merged PR [#8](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/8) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+2. 💪 Opened PR [#8](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/8) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+3. 🎉 Merged PR [#7](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/7) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+4. 💪 Opened PR [#7](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/7) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+5. 🎉 Merged PR [#6](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/6) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
 <!--END_SECTION:activity-->
 
 ---
