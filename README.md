@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/5) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-2. 💪 Opened PR [#5](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/5) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-3. 🎉 Merged PR [#4](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/4) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-4. 💪 Opened PR [#4](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/4) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-5. ❗️ Closed issue [#17](https://github.com/moonstar-x/discord-downtime-notifier/issues/17) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+1. 💪 Opened PR [#6](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/6) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+2. 🎉 Merged PR [#5](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/5) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+3. 💪 Opened PR [#5](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/5) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+4. 🎉 Merged PR [#4](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/4) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+5. 💪 Opened PR [#4](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/4) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
 <!--END_SECTION:activity-->
 
 ---
