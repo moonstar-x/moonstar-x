@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/9) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-2. 💪 Opened PR [#9](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/9) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-3. 🎉 Merged PR [#8](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/8) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-4. 💪 Opened PR [#8](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/8) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-5. 🎉 Merged PR [#7](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/7) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+1. ❗️ Opened issue [#36](https://github.com/moonstar-x/discord-music-24-7/issues/36) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+2. ❗️ Opened issue [#9](https://github.com/moonstar-x/discord-free-games-notifier/issues/9) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+3. ❗️ Opened issue [#8](https://github.com/moonstar-x/discord-free-games-notifier/issues/8) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+4. ❗️ Opened issue [#7](https://github.com/moonstar-x/discord-free-games-notifier/issues/7) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+5. ❗️ Opened issue [#35](https://github.com/moonstar-x/discord-tts-bot/issues/35) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
 ---
