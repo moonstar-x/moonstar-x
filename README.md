@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/moonstar-x/discord-music-24-7/issues/37) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🎉 Merged PR [#13](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/13) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-3. 💪 Opened PR [#13](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/13) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-4. 🎉 Merged PR [#12](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/12) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-5. 💪 Opened PR [#12](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/12) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+1. ❗️ Closed issue [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
+2. 🗣 Commented on [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
+3. ❗️ Opened issue [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
+4. 🗣 Commented on [#37](https://github.com/moonstar-x/discord-music-24-7/issues/37) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. 🎉 Merged PR [#13](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/13) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
 <!--END_SECTION:activity-->
 
 ---
