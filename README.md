@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
-2. 🗣 Commented on [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
-3. ❗️ Opened issue [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
-4. 🗣 Commented on [#37](https://github.com/moonstar-x/discord-music-24-7/issues/37) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-5. 🎉 Merged PR [#13](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/13) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+1. 🎉 Merged PR [#14](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/14) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+2. 💪 Opened PR [#14](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/14) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+3. ❗️ Closed issue [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
+4. 🗣 Commented on [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
+5. ❗️ Opened issue [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
 <!--END_SECTION:activity-->
 
 ---
