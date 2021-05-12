@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/moonstar-x/discord-music-24-7/issues/40) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🎉 Merged PR [#14](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/14) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-3. 💪 Opened PR [#14](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/14) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-4. ❗️ Closed issue [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
-5. 🗣 Commented on [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
+1. 🗣 Commented on [#43](https://github.com/moonstar-x/discord-music-24-7/issues/43) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+2. 🗣 Commented on [#40](https://github.com/moonstar-x/discord-music-24-7/issues/40) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+3. 🎉 Merged PR [#14](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/14) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+4. 💪 Opened PR [#14](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/14) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
+5. ❗️ Closed issue [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
 <!--END_SECTION:activity-->
 
 ---
