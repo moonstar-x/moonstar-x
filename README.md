@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/moonstar-x/discord-music-24-7/issues/43) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🗣 Commented on [#40](https://github.com/moonstar-x/discord-music-24-7/issues/40) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-3. 🎉 Merged PR [#14](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/14) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-4. 💪 Opened PR [#14](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/14) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
-5. ❗️ Closed issue [#1](https://github.com/tanb01/society-manager/issues/1) in [tanb01/society-manager](https://github.com/tanb01/society-manager)
+1. 🎉 Merged PR [#1](https://github.com/moonstar-x-edu/college-clubs-backend/pull/1) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
+2. 💪 Opened PR [#1](https://github.com/moonstar-x-edu/college-clubs-backend/pull/1) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
+3. 🗣 Commented on [#43](https://github.com/moonstar-x/discord-music-24-7/issues/43) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 🗣 Commented on [#40](https://github.com/moonstar-x/discord-music-24-7/issues/40) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. 🎉 Merged PR [#14](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono/pull/14) in [moonstar-x-edu/cpu-gpu-matrix-ops-mono](https://github.com/moonstar-x-edu/cpu-gpu-matrix-ops-mono)
 <!--END_SECTION:activity-->
 
 ---
