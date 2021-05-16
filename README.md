@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/moonstar-x-edu/college-clubs-backend/pull/3) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
-2. 💪 Opened PR [#3](https://github.com/moonstar-x-edu/college-clubs-backend/pull/3) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
-3. 🎉 Merged PR [#2](https://github.com/moonstar-x-edu/college-clubs-backend/pull/2) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
-4. 💪 Opened PR [#2](https://github.com/moonstar-x-edu/college-clubs-backend/pull/2) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
-5. 🎉 Merged PR [#1](https://github.com/moonstar-x-edu/college-clubs-backend/pull/1) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
+1. 🎉 Merged PR [#4](https://github.com/moonstar-x-edu/college-clubs-backend/pull/4) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
+2. 💪 Opened PR [#4](https://github.com/moonstar-x-edu/college-clubs-backend/pull/4) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
+3. 🎉 Merged PR [#3](https://github.com/moonstar-x-edu/college-clubs-backend/pull/3) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
+4. 💪 Opened PR [#3](https://github.com/moonstar-x-edu/college-clubs-backend/pull/3) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
+5. 🎉 Merged PR [#2](https://github.com/moonstar-x-edu/college-clubs-backend/pull/2) in [moonstar-x-edu/college-clubs-backend](https://github.com/moonstar-x-edu/college-clubs-backend)
 <!--END_SECTION:activity-->
 
 ---
