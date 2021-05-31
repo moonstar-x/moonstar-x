@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/moonstar-x/webframes/pull/2) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
-2. 💪 Opened PR [#2](https://github.com/moonstar-x/webframes/pull/2) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
-3. 🎉 Merged PR [#1](https://github.com/moonstar-x/webframes/pull/1) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
-4. 💪 Opened PR [#1](https://github.com/moonstar-x/webframes/pull/1) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
-5. 🎉 Merged PR [#1](https://github.com/moonstar-x/server-setup/pull/1) in [moonstar-x/server-setup](https://github.com/moonstar-x/server-setup)
+1. 🎉 Merged PR [#3](https://github.com/moonstar-x/webframes/pull/3) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+2. 💪 Opened PR [#3](https://github.com/moonstar-x/webframes/pull/3) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+3. 🎉 Merged PR [#2](https://github.com/moonstar-x/webframes/pull/2) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+4. 💪 Opened PR [#2](https://github.com/moonstar-x/webframes/pull/2) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+5. 🎉 Merged PR [#1](https://github.com/moonstar-x/webframes/pull/1) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
 <!--END_SECTION:activity-->
 
 ---
