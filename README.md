@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/greencoast-studios/discord.js-extended/pull/1) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-2. 💪 Opened PR [#1](https://github.com/greencoast-studios/discord.js-extended/pull/1) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. 🎉 Merged PR [#3](https://github.com/greencoast-studios/node-logger/pull/3) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
-4. 🎉 Merged PR [#2](https://github.com/greencoast-studios/node-logger/pull/2) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
-5. 🎉 Merged PR [#4](https://github.com/greencoast-studios/node-logger/pull/4) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
+1. 🎉 Merged PR [#2](https://github.com/greencoast-studios/discord.js-extended/pull/2) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. 💪 Opened PR [#2](https://github.com/greencoast-studios/discord.js-extended/pull/2) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+3. 🎉 Merged PR [#1](https://github.com/greencoast-studios/discord.js-extended/pull/1) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+4. 💪 Opened PR [#1](https://github.com/greencoast-studios/discord.js-extended/pull/1) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 🎉 Merged PR [#3](https://github.com/greencoast-studios/node-logger/pull/3) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
 <!--END_SECTION:activity-->
 
 ---
