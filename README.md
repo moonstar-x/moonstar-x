@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/moonstar-x/discord-music-24-7/issues/47) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🗣 Commented on [#47](https://github.com/moonstar-x/discord-music-24-7/issues/47) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-3. 🎉 Merged PR [#4](https://github.com/greencoast-studios/discord.js-extended/pull/4) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 💪 Opened PR [#4](https://github.com/greencoast-studios/discord.js-extended/pull/4) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 🎉 Merged PR [#3](https://github.com/greencoast-studios/discord.js-extended/pull/3) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. 🎉 Merged PR [#5](https://github.com/greencoast-studios/discord.js-extended/pull/5) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. 💪 Opened PR [#5](https://github.com/greencoast-studios/discord.js-extended/pull/5) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+3. 🗣 Commented on [#47](https://github.com/moonstar-x/discord-music-24-7/issues/47) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 🗣 Commented on [#47](https://github.com/moonstar-x/discord-music-24-7/issues/47) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. 🎉 Merged PR [#4](https://github.com/greencoast-studios/discord.js-extended/pull/4) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
