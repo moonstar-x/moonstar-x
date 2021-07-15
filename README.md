@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/greencoast-studios/discord.js-extended/pull/13) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-2. 💪 Opened PR [#13](https://github.com/greencoast-studios/discord.js-extended/pull/13) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. 🎉 Merged PR [#12](https://github.com/greencoast-studios/discord.js-extended/pull/12) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 💪 Opened PR [#12](https://github.com/greencoast-studios/discord.js-extended/pull/12) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 🎉 Merged PR [#11](https://github.com/greencoast-studios/discord.js-extended/pull/11) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. 🗣 Commented on [#36](https://github.com/moonstar-x/discord-tts-bot/issues/36) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🎉 Merged PR [#13](https://github.com/greencoast-studios/discord.js-extended/pull/13) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+3. 💪 Opened PR [#13](https://github.com/greencoast-studios/discord.js-extended/pull/13) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+4. 🎉 Merged PR [#12](https://github.com/greencoast-studios/discord.js-extended/pull/12) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 💪 Opened PR [#12](https://github.com/greencoast-studios/discord.js-extended/pull/12) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
