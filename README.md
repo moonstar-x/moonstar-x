@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/moonstar-x/discord-downtime-notifier/issues/23) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-2. 🗣 Commented on [#23](https://github.com/moonstar-x/discord-downtime-notifier/issues/23) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-3. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-4. 🗣 Commented on [#38](https://github.com/moonstar-x/discord-tts-bot/issues/38) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-5. ❗️ Opened issue [#14](https://github.com/greencoast-studios/discord.js-extended/issues/14) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. ❗️ Closed issue [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+2. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+3. ❗️ Closed issue [#23](https://github.com/moonstar-x/discord-downtime-notifier/issues/23) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+4. 🗣 Commented on [#23](https://github.com/moonstar-x/discord-downtime-notifier/issues/23) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+5. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
 <!--END_SECTION:activity-->
 
 ---
