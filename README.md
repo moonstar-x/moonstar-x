@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-2. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-3. ❗️ Closed issue [#23](https://github.com/moonstar-x/discord-downtime-notifier/issues/23) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-4. 🗣 Commented on [#23](https://github.com/moonstar-x/discord-downtime-notifier/issues/23) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-5. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+1. ❗️ Opened issue [#15](https://github.com/greencoast-studios/discord.js-extended/issues/15) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. ❗️ Closed issue [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+3. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+4. ❗️ Closed issue [#23](https://github.com/moonstar-x/discord-downtime-notifier/issues/23) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+5. 🗣 Commented on [#23](https://github.com/moonstar-x/discord-downtime-notifier/issues/23) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
 <!--END_SECTION:activity-->
 
 ---
