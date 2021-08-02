@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/moonstar-x/webframes/issues/12) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
-2. ❗️ Opened issue [#11](https://github.com/moonstar-x/webframes/issues/11) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
-3. ❗️ Opened issue [#15](https://github.com/greencoast-studios/discord.js-extended/issues/15) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. ❗️ Closed issue [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-5. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+1. 🗣 Commented on [#33](https://github.com/moonstar-x/react-twitch-embed/issues/33) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+2. ❗️ Opened issue [#12](https://github.com/moonstar-x/webframes/issues/12) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+3. ❗️ Opened issue [#11](https://github.com/moonstar-x/webframes/issues/11) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+4. ❗️ Opened issue [#15](https://github.com/greencoast-studios/discord.js-extended/issues/15) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. ❗️ Closed issue [#22](https://github.com/moonstar-x/discord-downtime-notifier/issues/22) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
 <!--END_SECTION:activity-->
 
 ---
