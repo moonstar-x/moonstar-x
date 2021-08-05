@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/moonstar-x/discord-downtime-notifier/pull/24) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-2. 💪 Opened PR [#24](https://github.com/moonstar-x/discord-downtime-notifier/pull/24) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-3. ❗️ Opened issue [#26](https://github.com/greencoast-studios/discord.js-extended/issues/26) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. ❗️ Opened issue [#25](https://github.com/greencoast-studios/discord.js-extended/issues/25) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 🗣 Commented on [#32](https://github.com/mongo-express/mongo-express-docker/issues/32) in [mongo-express/mongo-express-docker](https://github.com/mongo-express/mongo-express-docker)
+1. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-downtime-notifier/issues/16) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+2. ❗️ Closed issue [#16](https://github.com/moonstar-x/discord-downtime-notifier/issues/16) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+3. 🎉 Merged PR [#24](https://github.com/moonstar-x/discord-downtime-notifier/pull/24) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+4. 💪 Opened PR [#24](https://github.com/moonstar-x/discord-downtime-notifier/pull/24) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+5. ❗️ Opened issue [#26](https://github.com/greencoast-studios/discord.js-extended/issues/26) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
