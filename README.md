@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/greencoast-studios/discord.js-extended/issues/26) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-2. ❗️ Opened issue [#25](https://github.com/greencoast-studios/discord.js-extended/issues/25) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. 🗣 Commented on [#32](https://github.com/mongo-express/mongo-express-docker/issues/32) in [mongo-express/mongo-express-docker](https://github.com/mongo-express/mongo-express-docker)
-4. 🎉 Merged PR [#19](https://github.com/moonstar-x/discord-downtime-notifier/pull/19) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-5. 🎉 Merged PR [#20](https://github.com/moonstar-x/discord-downtime-notifier/pull/20) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+1. 🎉 Merged PR [#24](https://github.com/moonstar-x/discord-downtime-notifier/pull/24) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+2. 💪 Opened PR [#24](https://github.com/moonstar-x/discord-downtime-notifier/pull/24) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+3. ❗️ Opened issue [#26](https://github.com/greencoast-studios/discord.js-extended/issues/26) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+4. ❗️ Opened issue [#25](https://github.com/greencoast-studios/discord.js-extended/issues/25) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 🗣 Commented on [#32](https://github.com/mongo-express/mongo-express-docker/issues/32) in [mongo-express/mongo-express-docker](https://github.com/mongo-express/mongo-express-docker)
 <!--END_SECTION:activity-->
 
 ---
