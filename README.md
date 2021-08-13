@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/moonstar-x/discord-tts-bot/issues/42) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-2. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-downtime-notifier/issues/16) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-3. ❗️ Closed issue [#16](https://github.com/moonstar-x/discord-downtime-notifier/issues/16) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-4. 🎉 Merged PR [#24](https://github.com/moonstar-x/discord-downtime-notifier/pull/24) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-5. 💪 Opened PR [#24](https://github.com/moonstar-x/discord-downtime-notifier/pull/24) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+1. ❗️ Opened issue [#27](https://github.com/greencoast-studios/discord.js-extended/issues/27) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. ❗️ Opened issue [#42](https://github.com/moonstar-x/discord-tts-bot/issues/42) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+3. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-downtime-notifier/issues/16) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+4. ❗️ Closed issue [#16](https://github.com/moonstar-x/discord-downtime-notifier/issues/16) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+5. 🎉 Merged PR [#24](https://github.com/moonstar-x/discord-downtime-notifier/pull/24) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
 <!--END_SECTION:activity-->
 
 ---
