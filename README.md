@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/moonstar-x/react-twitch-embed/issues/34) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
-2. ❗️ Opened issue [#11](https://github.com/moonstar-x/discord-free-games-notifier/issues/11) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-3. 🗣 Commented on [#44](https://github.com/moonstar-x/discord-tts-bot/issues/44) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-4. ❗️ Opened issue [#45](https://github.com/moonstar-x/discord-tts-bot/issues/45) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-5. 🗣 Commented on [#43](https://github.com/moonstar-x/discord-music-24-7/issues/43) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+1. ❗️ Opened issue [#32](https://github.com/greencoast-studios/discord.js-extended/issues/32) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. 🗣 Commented on [#34](https://github.com/moonstar-x/react-twitch-embed/issues/34) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+3. ❗️ Opened issue [#11](https://github.com/moonstar-x/discord-free-games-notifier/issues/11) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+4. 🗣 Commented on [#44](https://github.com/moonstar-x/discord-tts-bot/issues/44) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+5. ❗️ Opened issue [#45](https://github.com/moonstar-x/discord-tts-bot/issues/45) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
 ---
