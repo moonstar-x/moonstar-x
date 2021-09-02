@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/moonstar-x/discord-tts-bot/pull/47) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-2. 💪 Opened PR [#47](https://github.com/moonstar-x/discord-tts-bot/pull/47) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-3. 🎉 Merged PR [#46](https://github.com/moonstar-x/discord-tts-bot/pull/46) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-4. 🎉 Merged PR [#26](https://github.com/moonstar-x/discord-downtime-notifier/pull/26) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
-5. 💪 Opened PR [#26](https://github.com/moonstar-x/discord-downtime-notifier/pull/26) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
+1. 🗣 Commented on [#48](https://github.com/moonstar-x/discord-tts-bot/issues/48) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🎉 Merged PR [#47](https://github.com/moonstar-x/discord-tts-bot/pull/47) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+3. 💪 Opened PR [#47](https://github.com/moonstar-x/discord-tts-bot/pull/47) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+4. 🎉 Merged PR [#46](https://github.com/moonstar-x/discord-tts-bot/pull/46) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+5. 🎉 Merged PR [#26](https://github.com/moonstar-x/discord-downtime-notifier/pull/26) in [moonstar-x/discord-downtime-notifier](https://github.com/moonstar-x/discord-downtime-notifier)
 <!--END_SECTION:activity-->
 
 ---
