@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/moonstar-x/discord-free-games-notifier/issues/11) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-2. ❗️ Closed issue [#11](https://github.com/moonstar-x/discord-free-games-notifier/issues/11) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-3. 💪 Opened PR [#12](https://github.com/moonstar-x/discord-free-games-notifier/pull/12) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-4. 🗣 Commented on [#48](https://github.com/moonstar-x/discord-tts-bot/issues/48) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-5. 🗣 Commented on [#48](https://github.com/moonstar-x/discord-tts-bot/issues/48) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+1. 🎉 Merged PR [#12](https://github.com/moonstar-x/discord-free-games-notifier/pull/12) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+2. 🗣 Commented on [#8](https://github.com/moonstar-x/discord-free-games-notifier/issues/8) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+3. ❗️ Closed issue [#8](https://github.com/moonstar-x/discord-free-games-notifier/issues/8) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+4. ❗️ Closed issue [#7](https://github.com/moonstar-x/discord-free-games-notifier/issues/7) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+5. 🗣 Commented on [#7](https://github.com/moonstar-x/discord-free-games-notifier/issues/7) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
 <!--END_SECTION:activity-->
 
 ---
