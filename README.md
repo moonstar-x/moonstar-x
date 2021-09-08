@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/moonstar-x/discord-free-games-notifier/issues/13) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-2. 🎉 Merged PR [#12](https://github.com/moonstar-x/discord-free-games-notifier/pull/12) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-3. 🗣 Commented on [#8](https://github.com/moonstar-x/discord-free-games-notifier/issues/8) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-4. ❗️ Closed issue [#8](https://github.com/moonstar-x/discord-free-games-notifier/issues/8) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-5. ❗️ Closed issue [#7](https://github.com/moonstar-x/discord-free-games-notifier/issues/7) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+1. 🗣 Commented on [#43](https://github.com/moonstar-x/discord-music-24-7/issues/43) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+2. 🗣 Commented on [#55](https://github.com/moonstar-x/discord-music-24-7/issues/55) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+3. ❗️ Closed issue [#54](https://github.com/moonstar-x/discord-music-24-7/issues/54) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 🗣 Commented on [#54](https://github.com/moonstar-x/discord-music-24-7/issues/54) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. 🗣 Commented on [#13](https://github.com/moonstar-x/discord-free-games-notifier/issues/13) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
 <!--END_SECTION:activity-->
 
 ---
