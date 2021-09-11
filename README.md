@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#57](https://github.com/moonstar-x/discord-music-24-7/issues/57) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. ❗️ Closed issue [#31](https://github.com/greencoast-studios/discord.js-extended/issues/31) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. 🗣 Commented on [#31](https://github.com/greencoast-studios/discord.js-extended/issues/31) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. ❗️ Closed issue [#30](https://github.com/greencoast-studios/discord.js-extended/issues/30) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 🗣 Commented on [#30](https://github.com/greencoast-studios/discord.js-extended/issues/30) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. ❗️ Opened issue [#15](https://github.com/moonstar-x/discord-free-games-notifier/issues/15) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+2. ❗️ Opened issue [#14](https://github.com/moonstar-x/discord-free-games-notifier/issues/14) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+3. ❗️ Opened issue [#57](https://github.com/moonstar-x/discord-music-24-7/issues/57) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. ❗️ Closed issue [#31](https://github.com/greencoast-studios/discord.js-extended/issues/31) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 🗣 Commented on [#31](https://github.com/greencoast-studios/discord.js-extended/issues/31) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
