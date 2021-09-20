@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/moonstar-x/discord-free-games-notifier/issues/15) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-2. ❗️ Opened issue [#14](https://github.com/moonstar-x/discord-free-games-notifier/issues/14) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-3. ❗️ Opened issue [#57](https://github.com/moonstar-x/discord-music-24-7/issues/57) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-4. ❗️ Closed issue [#31](https://github.com/greencoast-studios/discord.js-extended/issues/31) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 🗣 Commented on [#31](https://github.com/greencoast-studios/discord.js-extended/issues/31) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. 🗣 Commented on [#43](https://github.com/moonstar-x/discord-tts-bot/issues/43) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🗣 Commented on [#44](https://github.com/moonstar-x/discord-tts-bot/issues/44) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+3. ❗️ Opened issue [#15](https://github.com/moonstar-x/discord-free-games-notifier/issues/15) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+4. ❗️ Opened issue [#14](https://github.com/moonstar-x/discord-free-games-notifier/issues/14) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+5. ❗️ Opened issue [#57](https://github.com/moonstar-x/discord-music-24-7/issues/57) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 <!--END_SECTION:activity-->
 
 ---
