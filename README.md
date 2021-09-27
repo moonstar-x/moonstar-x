@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/moonstar-x/discord-music-24-7/issues/59) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-free-games-notifier/issues/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-3. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-free-games-notifier/issues/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-4. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-free-games-notifier/issues/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-5. ❌ Closed PR [#16](https://github.com/moonstar-x/discord-free-games-notifier/pull/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+1. ❗️ Closed issue [#59](https://github.com/moonstar-x/discord-music-24-7/issues/59) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+2. 🗣 Commented on [#59](https://github.com/moonstar-x/discord-music-24-7/issues/59) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+3. 🗣 Commented on [#59](https://github.com/moonstar-x/discord-music-24-7/issues/59) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 🗣 Commented on [#59](https://github.com/moonstar-x/discord-music-24-7/issues/59) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. 🗣 Commented on [#59](https://github.com/moonstar-x/discord-music-24-7/issues/59) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 <!--END_SECTION:activity-->
 
 ---
