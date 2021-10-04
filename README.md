@@ -27,10 +27,10 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#50](https://github.com/moonstar-x/discord-tts-bot/issues/50) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-2. 🗣 Commented on [#50](https://github.com/moonstar-x/discord-tts-bot/issues/50) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-3. 🗣 Commented on [#50](https://github.com/moonstar-x/discord-tts-bot/issues/50) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-4. 🗣 Commented on [#50](https://github.com/moonstar-x/discord-tts-bot/issues/50) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+1. 🗣 Commented on [#51](https://github.com/moonstar-x/discord-tts-bot/issues/51) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🗣 Commented on [#51](https://github.com/moonstar-x/discord-tts-bot/issues/51) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+3. 🗣 Commented on [#51](https://github.com/moonstar-x/discord-tts-bot/issues/51) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+4. ❗️ Closed issue [#50](https://github.com/moonstar-x/discord-tts-bot/issues/50) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 5. 🗣 Commented on [#50](https://github.com/moonstar-x/discord-tts-bot/issues/50) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
