@@ -27,7 +27,7 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/moonstar-x/react-twitch-embed/issues/25) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+1. 🗣 Commented on [#43](https://github.com/moonstar-x/discord-tts-bot/issues/43) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 2. 🗣 Commented on [#25](https://github.com/moonstar-x/react-twitch-embed/issues/25) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
 3. 🗣 Commented on [#25](https://github.com/moonstar-x/react-twitch-embed/issues/25) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
 4. 🗣 Commented on [#25](https://github.com/moonstar-x/react-twitch-embed/issues/25) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
