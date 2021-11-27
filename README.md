@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-free-games-notifier/issues/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-2. ❌ Reopened PR [#16](https://github.com/moonstar-x/discord-free-games-notifier/pull/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-3. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-free-games-notifier/issues/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-4. ❗️ Opened issue [#34](https://github.com/greencoast-studios/discord.js-extended/issues/34) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. ❗️ Opened issue [#53](https://github.com/moonstar-x/discord-tts-bot/issues/53) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+1. 🗣 Commented on [#54](https://github.com/moonstar-x/discord-tts-bot/issues/54) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-free-games-notifier/issues/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+3. ❌ Reopened PR [#16](https://github.com/moonstar-x/discord-free-games-notifier/pull/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+4. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-free-games-notifier/issues/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+5. ❗️ Opened issue [#34](https://github.com/greencoast-studios/discord.js-extended/issues/34) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
