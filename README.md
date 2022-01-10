@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/greencoast-studios/discord.js-extended/issues/34) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-2. ❗️ Closed issue [#34](https://github.com/greencoast-studios/discord.js-extended/issues/34) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. ❗️ Closed issue [#42](https://github.com/greencoast-studios/discord.js-extended/issues/42) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 🗣 Commented on [#42](https://github.com/greencoast-studios/discord.js-extended/issues/42) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 🗣 Commented on [#27](https://github.com/greencoast-studios/discord.js-extended/issues/27) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. 🎉 Merged PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. 💪 Opened PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+3. 🎉 Merged PR [#51](https://github.com/greencoast-studios/discord.js-extended/pull/51) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+4. 💪 Opened PR [#51](https://github.com/greencoast-studios/discord.js-extended/pull/51) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 🗣 Commented on [#34](https://github.com/greencoast-studios/discord.js-extended/issues/34) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
