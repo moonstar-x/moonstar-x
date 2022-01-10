@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/greencoast-studios/discord.js-extended/pull/46) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-2. 💪 Opened PR [#46](https://github.com/greencoast-studios/discord.js-extended/pull/46) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. 🎉 Merged PR [#45](https://github.com/greencoast-studios/discord.js-extended/pull/45) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 💪 Opened PR [#45](https://github.com/greencoast-studios/discord.js-extended/pull/45) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 🎉 Merged PR [#44](https://github.com/greencoast-studios/discord.js-extended/pull/44) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. 🎉 Merged PR [#47](https://github.com/greencoast-studios/discord.js-extended/pull/47) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. 💪 Opened PR [#47](https://github.com/greencoast-studios/discord.js-extended/pull/47) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+3. 🎉 Merged PR [#46](https://github.com/greencoast-studios/discord.js-extended/pull/46) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+4. 💪 Opened PR [#46](https://github.com/greencoast-studios/discord.js-extended/pull/46) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 🎉 Merged PR [#45](https://github.com/greencoast-studios/discord.js-extended/pull/45) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
