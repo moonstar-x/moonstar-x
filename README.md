@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-2. 💪 Opened PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. 🎉 Merged PR [#51](https://github.com/greencoast-studios/discord.js-extended/pull/51) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 💪 Opened PR [#51](https://github.com/greencoast-studios/discord.js-extended/pull/51) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 🗣 Commented on [#34](https://github.com/greencoast-studios/discord.js-extended/issues/34) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. 🗣 Commented on [#62](https://github.com/moonstar-x/discord-music-24-7/issues/62) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+2. 🎉 Merged PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+3. 💪 Opened PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+4. 🎉 Merged PR [#51](https://github.com/greencoast-studios/discord.js-extended/pull/51) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 💪 Opened PR [#51](https://github.com/greencoast-studios/discord.js-extended/pull/51) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
