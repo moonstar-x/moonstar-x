@@ -28,10 +28,10 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#62](https://github.com/moonstar-x/discord-music-24-7/issues/62) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. 🎉 Merged PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. 💪 Opened PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 🎉 Merged PR [#51](https://github.com/greencoast-studios/discord.js-extended/pull/51) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 💪 Opened PR [#51](https://github.com/greencoast-studios/discord.js-extended/pull/51) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. 🗣 Commented on [#816](https://github.com/fent/node-ytdl-core/issues/816) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
+3. 🗣 Commented on [#62](https://github.com/moonstar-x/discord-music-24-7/issues/62) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. 🎉 Merged PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 💪 Opened PR [#52](https://github.com/greencoast-studios/discord.js-extended/pull/52) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
