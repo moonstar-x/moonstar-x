@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/greencoast-studios/discord.js-extended/pull/54) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-2. 💪 Opened PR [#54](https://github.com/greencoast-studios/discord.js-extended/pull/54) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. 🎉 Merged PR [#53](https://github.com/greencoast-studios/discord.js-extended/pull/53) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 💪 Opened PR [#53](https://github.com/greencoast-studios/discord.js-extended/pull/53) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 🗣 Commented on [#62](https://github.com/moonstar-x/discord-music-24-7/issues/62) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+1. ❌ Closed PR [#57](https://github.com/moonstar-x/discord-tts-bot/pull/57) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🎉 Merged PR [#54](https://github.com/greencoast-studios/discord.js-extended/pull/54) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+3. 💪 Opened PR [#54](https://github.com/greencoast-studios/discord.js-extended/pull/54) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+4. 🎉 Merged PR [#53](https://github.com/greencoast-studios/discord.js-extended/pull/53) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 💪 Opened PR [#53](https://github.com/greencoast-studios/discord.js-extended/pull/53) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
