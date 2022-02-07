@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/moonstar-x/discord-free-games-notifier/issues/21) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-2. 🗣 Commented on [#21](https://github.com/moonstar-x/discord-free-games-notifier/issues/21) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-3. ❗️ Closed issue [#21](https://github.com/moonstar-x/discord-free-games-notifier/issues/21) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+1. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-free-games-notifier/issues/22) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+2. 🗣 Commented on [#22](https://github.com/moonstar-x/discord-free-games-notifier/issues/22) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+3. 🗣 Commented on [#21](https://github.com/moonstar-x/discord-free-games-notifier/issues/21) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
 4. 🗣 Commented on [#21](https://github.com/moonstar-x/discord-free-games-notifier/issues/21) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-5. 🗣 Commented on [#65](https://github.com/moonstar-x/discord-music-24-7/issues/65) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. ❗️ Closed issue [#21](https://github.com/moonstar-x/discord-free-games-notifier/issues/21) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
 <!--END_SECTION:activity-->
 
 ---
