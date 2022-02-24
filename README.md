@@ -30,8 +30,8 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 1. 🗣 Commented on [#71](https://github.com/moonstar-x/discord-music-24-7/issues/71) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 2. 🗣 Commented on [#71](https://github.com/moonstar-x/discord-music-24-7/issues/71) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 3. 🗣 Commented on [#71](https://github.com/moonstar-x/discord-music-24-7/issues/71) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-4. ❗️ Closed issue [#53](https://github.com/moonstar-x/discord-tts-bot/issues/53) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-5. 🗣 Commented on [#53](https://github.com/moonstar-x/discord-tts-bot/issues/53) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+4. 🗣 Commented on [#71](https://github.com/moonstar-x/discord-music-24-7/issues/71) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+5. 🗣 Commented on [#71](https://github.com/moonstar-x/discord-music-24-7/issues/71) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 <!--END_SECTION:activity-->
 
 ---
