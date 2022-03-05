@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono/pull/2) in [moonstar-x-edu/ldcc-agro-iot-mono](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono)
-2. 💪 Opened PR [#2](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono/pull/2) in [moonstar-x-edu/ldcc-agro-iot-mono](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono)
-3. 🎉 Merged PR [#1](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono/pull/1) in [moonstar-x-edu/ldcc-agro-iot-mono](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono)
-4. 💪 Opened PR [#1](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono/pull/1) in [moonstar-x-edu/ldcc-agro-iot-mono](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono)
-5. 🗣 Commented on [#71](https://github.com/moonstar-x/discord-music-24-7/issues/71) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+1. 🎉 Merged PR [#3](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono/pull/3) in [moonstar-x-edu/ldcc-agro-iot-mono](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono)
+2. 💪 Opened PR [#3](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono/pull/3) in [moonstar-x-edu/ldcc-agro-iot-mono](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono)
+3. 🎉 Merged PR [#2](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono/pull/2) in [moonstar-x-edu/ldcc-agro-iot-mono](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono)
+4. 💪 Opened PR [#2](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono/pull/2) in [moonstar-x-edu/ldcc-agro-iot-mono](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono)
+5. 🎉 Merged PR [#1](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono/pull/1) in [moonstar-x-edu/ldcc-agro-iot-mono](https://github.com/moonstar-x-edu/ldcc-agro-iot-mono)
 <!--END_SECTION:activity-->
 
 ---
