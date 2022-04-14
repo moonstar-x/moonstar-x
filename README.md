@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/moonstar-x/react-twitch-embed/issues/36) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
-2. 🎉 Merged PR [#2](https://github.com/moonstar-x-docs/discord-tts-bot/pull/2) in [moonstar-x-docs/discord-tts-bot](https://github.com/moonstar-x-docs/discord-tts-bot)
-3. 💪 Opened PR [#2](https://github.com/moonstar-x-docs/discord-tts-bot/pull/2) in [moonstar-x-docs/discord-tts-bot](https://github.com/moonstar-x-docs/discord-tts-bot)
-4. ❗️ Closed issue [#73](https://github.com/moonstar-x/discord-tts-bot/issues/73) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-5. 🗣 Commented on [#73](https://github.com/moonstar-x/discord-tts-bot/issues/73) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+1. ❗️ Closed issue [#75](https://github.com/moonstar-x/discord-music-24-7/issues/75) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+2. 🗣 Commented on [#75](https://github.com/moonstar-x/discord-music-24-7/issues/75) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+3. 🗣 Commented on [#36](https://github.com/moonstar-x/react-twitch-embed/issues/36) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+4. 🎉 Merged PR [#2](https://github.com/moonstar-x-docs/discord-tts-bot/pull/2) in [moonstar-x-docs/discord-tts-bot](https://github.com/moonstar-x-docs/discord-tts-bot)
+5. 💪 Opened PR [#2](https://github.com/moonstar-x-docs/discord-tts-bot/pull/2) in [moonstar-x-docs/discord-tts-bot](https://github.com/moonstar-x-docs/discord-tts-bot)
 <!--END_SECTION:activity-->
 
 ---
