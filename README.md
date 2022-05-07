@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/moonstar-x-edu/async-chat/pull/1) in [moonstar-x-edu/async-chat](https://github.com/moonstar-x-edu/async-chat)
-2. 💪 Opened PR [#1](https://github.com/moonstar-x-edu/async-chat/pull/1) in [moonstar-x-edu/async-chat](https://github.com/moonstar-x-edu/async-chat)
-3. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-free-games-notifier/issues/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-4. ❗️ Closed issue [#75](https://github.com/moonstar-x/discord-music-24-7/issues/75) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-5. 🗣 Commented on [#75](https://github.com/moonstar-x/discord-music-24-7/issues/75) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+1. 🎉 Merged PR [#2](https://github.com/moonstar-x-edu/async-chat/pull/2) in [moonstar-x-edu/async-chat](https://github.com/moonstar-x-edu/async-chat)
+2. 🎉 Merged PR [#1](https://github.com/moonstar-x-edu/async-chat/pull/1) in [moonstar-x-edu/async-chat](https://github.com/moonstar-x-edu/async-chat)
+3. 💪 Opened PR [#1](https://github.com/moonstar-x-edu/async-chat/pull/1) in [moonstar-x-edu/async-chat](https://github.com/moonstar-x-edu/async-chat)
+4. 🗣 Commented on [#16](https://github.com/moonstar-x/discord-free-games-notifier/issues/16) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+5. ❗️ Closed issue [#75](https://github.com/moonstar-x/discord-music-24-7/issues/75) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
 <!--END_SECTION:activity-->
 
 ---
