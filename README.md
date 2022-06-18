@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#77](https://github.com/moonstar-x/discord-music-24-7/issues/77) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. ❗️ Opened issue [#62](https://github.com/greencoast-studios/discord.js-extended/issues/62) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. ❗️ Opened issue [#61](https://github.com/greencoast-studios/discord.js-extended/issues/61) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 🗣 Commented on [#19](https://github.com/moonstar-x/discord-free-games-notifier/issues/19) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-5. 🎉 Merged PR [#2](https://github.com/moonstar-x-edu/async-chat/pull/2) in [moonstar-x-edu/async-chat](https://github.com/moonstar-x-edu/async-chat)
+1. 🎉 Merged PR [#3](https://github.com/moonstar-x/moonstar-x.github.io/pull/3) in [moonstar-x/moonstar-x.github.io](https://github.com/moonstar-x/moonstar-x.github.io)
+2. 💪 Opened PR [#3](https://github.com/moonstar-x/moonstar-x.github.io/pull/3) in [moonstar-x/moonstar-x.github.io](https://github.com/moonstar-x/moonstar-x.github.io)
+3. ❗️ Opened issue [#77](https://github.com/moonstar-x/discord-music-24-7/issues/77) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. ❗️ Opened issue [#62](https://github.com/greencoast-studios/discord.js-extended/issues/62) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. ❗️ Opened issue [#61](https://github.com/greencoast-studios/discord.js-extended/issues/61) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
