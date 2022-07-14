@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#79](https://github.com/moonstar-x/discord-music-24-7/issues/79) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
-2. ❗️ Opened issue [#78](https://github.com/moonstar-x/discord-tts-bot/issues/78) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-3. 🎉 Merged PR [#3](https://github.com/moonstar-x/moonstar-x.github.io/pull/3) in [moonstar-x/moonstar-x.github.io](https://github.com/moonstar-x/moonstar-x.github.io)
-4. 💪 Opened PR [#3](https://github.com/moonstar-x/moonstar-x.github.io/pull/3) in [moonstar-x/moonstar-x.github.io](https://github.com/moonstar-x/moonstar-x.github.io)
-5. ❗️ Opened issue [#77](https://github.com/moonstar-x/discord-music-24-7/issues/77) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+1. ❗️ Closed issue [#79](https://github.com/moonstar-x/discord-tts-bot/issues/79) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🗣 Commented on [#79](https://github.com/moonstar-x/discord-tts-bot/issues/79) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+3. ❗️ Opened issue [#79](https://github.com/moonstar-x/discord-music-24-7/issues/79) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+4. ❗️ Opened issue [#78](https://github.com/moonstar-x/discord-tts-bot/issues/78) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+5. 🎉 Merged PR [#3](https://github.com/moonstar-x/moonstar-x.github.io/pull/3) in [moonstar-x/moonstar-x.github.io](https://github.com/moonstar-x/moonstar-x.github.io)
 <!--END_SECTION:activity-->
 
 ---
