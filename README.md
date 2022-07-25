@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/moonstar-x/discord-tts-bot/issues/79) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-2. ❗️ Reopened issue [#79](https://github.com/moonstar-x/discord-tts-bot/issues/79) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-3. ❗️ Opened issue [#64](https://github.com/greencoast-studios/discord.js-extended/issues/64) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. ❗️ Opened issue [#63](https://github.com/greencoast-studios/discord.js-extended/issues/63) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. ❗️ Closed issue [#79](https://github.com/moonstar-x/discord-tts-bot/issues/79) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+1. 🎉 Merged PR [#13](https://github.com/moonstar-x/webframes/pull/13) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+2. ❗️ Closed issue [#11](https://github.com/moonstar-x/webframes/issues/11) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+3. 🗣 Commented on [#11](https://github.com/moonstar-x/webframes/issues/11) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+4. ❗️ Closed issue [#12](https://github.com/moonstar-x/webframes/issues/12) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
+5. 🗣 Commented on [#12](https://github.com/moonstar-x/webframes/issues/12) in [moonstar-x/webframes](https://github.com/moonstar-x/webframes)
 <!--END_SECTION:activity-->
 
 ---
