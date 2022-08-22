@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#33](https://github.com/moonstar-x/react-twitch-embed/issues/33) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
-2. 🗣 Commented on [#33](https://github.com/moonstar-x/react-twitch-embed/issues/33) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
-3. 🎉 Merged PR [#38](https://github.com/moonstar-x/react-twitch-embed/pull/38) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
-4. 💪 Opened PR [#38](https://github.com/moonstar-x/react-twitch-embed/pull/38) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
-5. 🎉 Merged PR [#37](https://github.com/moonstar-x/react-twitch-embed/pull/37) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+1. ❗️ Closed issue [#26](https://github.com/moonstar-x/react-twitch-embed/issues/26) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+2. 🗣 Commented on [#26](https://github.com/moonstar-x/react-twitch-embed/issues/26) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+3. 🗣 Commented on [#25](https://github.com/moonstar-x/react-twitch-embed/issues/25) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+4. ❗️ Closed issue [#25](https://github.com/moonstar-x/react-twitch-embed/issues/25) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
+5. ❗️ Closed issue [#27](https://github.com/moonstar-x/react-twitch-embed/issues/27) in [moonstar-x/react-twitch-embed](https://github.com/moonstar-x/react-twitch-embed)
 <!--END_SECTION:activity-->
 
 ---
