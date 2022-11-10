@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/freenalytics/freenalytics/pull/24) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
-2. 💪 Opened PR [#24](https://github.com/freenalytics/freenalytics/pull/24) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
-3. 🎉 Merged PR [#23](https://github.com/freenalytics/freenalytics/pull/23) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
-4. 💪 Opened PR [#23](https://github.com/freenalytics/freenalytics/pull/23) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
-5. 🎉 Merged PR [#1](https://github.com/freenalytics/freenalytics.github.io/pull/1) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
+1. 🗣 Commented on [#84](https://github.com/moonstar-x/discord-tts-bot/issues/84) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🎉 Merged PR [#24](https://github.com/freenalytics/freenalytics/pull/24) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+3. 💪 Opened PR [#24](https://github.com/freenalytics/freenalytics/pull/24) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+4. 🎉 Merged PR [#23](https://github.com/freenalytics/freenalytics/pull/23) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+5. 💪 Opened PR [#23](https://github.com/freenalytics/freenalytics/pull/23) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
 <!--END_SECTION:activity-->
 
 ---
