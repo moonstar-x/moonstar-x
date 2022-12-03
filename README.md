@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/freenalytics/freenalytics/pull/27) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
-2. 💪 Opened PR [#27](https://github.com/freenalytics/freenalytics/pull/27) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
-3. 🎉 Merged PR [#1](https://github.com/freenalytics/freenalytics-connector-web/pull/1) in [freenalytics/freenalytics-connector-web](https://github.com/freenalytics/freenalytics-connector-web)
-4. 💪 Opened PR [#1](https://github.com/freenalytics/freenalytics-connector-web/pull/1) in [freenalytics/freenalytics-connector-web](https://github.com/freenalytics/freenalytics-connector-web)
-5. 🎉 Merged PR [#26](https://github.com/freenalytics/freenalytics/pull/26) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+1. ❗️ Opened issue [#68](https://github.com/greencoast-studios/discord.js-extended/issues/68) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. 🎉 Merged PR [#27](https://github.com/freenalytics/freenalytics/pull/27) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+3. 💪 Opened PR [#27](https://github.com/freenalytics/freenalytics/pull/27) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+4. 🎉 Merged PR [#1](https://github.com/freenalytics/freenalytics-connector-web/pull/1) in [freenalytics/freenalytics-connector-web](https://github.com/freenalytics/freenalytics-connector-web)
+5. 💪 Opened PR [#1](https://github.com/freenalytics/freenalytics-connector-web/pull/1) in [freenalytics/freenalytics-connector-web](https://github.com/freenalytics/freenalytics-connector-web)
 <!--END_SECTION:activity-->
 
 ---
