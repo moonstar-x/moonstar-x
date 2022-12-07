@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/freenalytics/freenalytics/pull/29) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
-2. 💪 Opened PR [#29](https://github.com/freenalytics/freenalytics/pull/29) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
-3. 🎉 Merged PR [#2](https://github.com/freenalytics/freenalytics.github.io/pull/2) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
-4. 💪 Opened PR [#2](https://github.com/freenalytics/freenalytics.github.io/pull/2) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
-5. 🎉 Merged PR [#28](https://github.com/freenalytics/freenalytics/pull/28) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+1. 🎉 Merged PR [#30](https://github.com/freenalytics/freenalytics/pull/30) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+2. 💪 Opened PR [#30](https://github.com/freenalytics/freenalytics/pull/30) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+3. 🎉 Merged PR [#2](https://github.com/freenalytics/freenalytics-connector-web/pull/2) in [freenalytics/freenalytics-connector-web](https://github.com/freenalytics/freenalytics-connector-web)
+4. 💪 Opened PR [#2](https://github.com/freenalytics/freenalytics-connector-web/pull/2) in [freenalytics/freenalytics-connector-web](https://github.com/freenalytics/freenalytics-connector-web)
+5. 🎉 Merged PR [#29](https://github.com/freenalytics/freenalytics/pull/29) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
 <!--END_SECTION:activity-->
 
 ---
