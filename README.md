@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/freenalytics/freenalytics.github.io/pull/4) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
-2. 💪 Opened PR [#4](https://github.com/freenalytics/freenalytics.github.io/pull/4) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
-3. 🎉 Merged PR [#3](https://github.com/freenalytics/freenalytics.github.io/pull/3) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
-4. 💪 Opened PR [#3](https://github.com/freenalytics/freenalytics.github.io/pull/3) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
-5. 🎉 Merged PR [#30](https://github.com/freenalytics/freenalytics/pull/30) in [freenalytics/freenalytics](https://github.com/freenalytics/freenalytics)
+1. ❗️ Closed issue [#85](https://github.com/moonstar-x/discord-tts-bot/issues/85) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🗣 Commented on [#85](https://github.com/moonstar-x/discord-tts-bot/issues/85) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+3. 🎉 Merged PR [#4](https://github.com/freenalytics/freenalytics.github.io/pull/4) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
+4. 💪 Opened PR [#4](https://github.com/freenalytics/freenalytics.github.io/pull/4) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
+5. 🎉 Merged PR [#3](https://github.com/freenalytics/freenalytics.github.io/pull/3) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
 <!--END_SECTION:activity-->
 
 ---
