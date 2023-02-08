@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/moonstar-x/discord-free-games-notifier/issues/25) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-2. ❗️ Closed issue [#85](https://github.com/moonstar-x/discord-tts-bot/issues/85) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-3. 🗣 Commented on [#85](https://github.com/moonstar-x/discord-tts-bot/issues/85) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-4. 🎉 Merged PR [#4](https://github.com/freenalytics/freenalytics.github.io/pull/4) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
-5. 💪 Opened PR [#4](https://github.com/freenalytics/freenalytics.github.io/pull/4) in [freenalytics/freenalytics.github.io](https://github.com/freenalytics/freenalytics.github.io)
+1. 🎉 Merged PR [#1](https://github.com/moonstar-x/automation-service/pull/1) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
+2. 💪 Opened PR [#1](https://github.com/moonstar-x/automation-service/pull/1) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
+3. 🗣 Commented on [#25](https://github.com/moonstar-x/discord-free-games-notifier/issues/25) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+4. ❗️ Closed issue [#85](https://github.com/moonstar-x/discord-tts-bot/issues/85) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+5. 🗣 Commented on [#85](https://github.com/moonstar-x/discord-tts-bot/issues/85) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
 ---
