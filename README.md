@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/usfq-bid/docs/pull/1) in [usfq-bid/docs](https://github.com/usfq-bid/docs)
-2. 💪 Opened PR [#1](https://github.com/usfq-bid/docs/pull/1) in [usfq-bid/docs](https://github.com/usfq-bid/docs)
-3. 🎉 Merged PR [#2](https://github.com/moonstar-x/automation-service/pull/2) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
-4. 💪 Opened PR [#2](https://github.com/moonstar-x/automation-service/pull/2) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
-5. ❗️ Closed issue [#88](https://github.com/moonstar-x/discord-music-24-7/issues/88) in [moonstar-x/discord-music-24-7](https://github.com/moonstar-x/discord-music-24-7)
+1. 🎉 Merged PR [#2](https://github.com/usfq-bid/docs/pull/2) in [usfq-bid/docs](https://github.com/usfq-bid/docs)
+2. 💪 Opened PR [#2](https://github.com/usfq-bid/docs/pull/2) in [usfq-bid/docs](https://github.com/usfq-bid/docs)
+3. 🎉 Merged PR [#1](https://github.com/usfq-bid/docs/pull/1) in [usfq-bid/docs](https://github.com/usfq-bid/docs)
+4. 💪 Opened PR [#1](https://github.com/usfq-bid/docs/pull/1) in [usfq-bid/docs](https://github.com/usfq-bid/docs)
+5. 🎉 Merged PR [#2](https://github.com/moonstar-x/automation-service/pull/2) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
 <!--END_SECTION:activity-->
 
 ---
