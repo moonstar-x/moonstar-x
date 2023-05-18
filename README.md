@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/EL-BID/transformar-docs/pull/3) in [EL-BID/transformar-docs](https://github.com/EL-BID/transformar-docs)
-2. 💪 Opened PR [#3](https://github.com/EL-BID/transformar-docs/pull/3) in [EL-BID/transformar-docs](https://github.com/EL-BID/transformar-docs)
-3. ❗️ Closed issue [#14](https://github.com/EL-BID/transformar-backend/issues/14) in [EL-BID/transformar-backend](https://github.com/EL-BID/transformar-backend)
-4. 🗣 Commented on [#14](https://github.com/EL-BID/transformar-backend/issues/14) in [EL-BID/transformar-backend](https://github.com/EL-BID/transformar-backend)
-5. 🎉 Merged PR [#2](https://github.com/usfq-bid/docs/pull/2) in [usfq-bid/docs](https://github.com/usfq-bid/docs)
+1. ❗️ Closed issue [#11](https://github.com/EL-BID/transformar-webapp/issues/11) in [EL-BID/transformar-webapp](https://github.com/EL-BID/transformar-webapp)
+2. 🗣 Commented on [#11](https://github.com/EL-BID/transformar-webapp/issues/11) in [EL-BID/transformar-webapp](https://github.com/EL-BID/transformar-webapp)
+3. 🎉 Merged PR [#3](https://github.com/EL-BID/transformar-docs/pull/3) in [EL-BID/transformar-docs](https://github.com/EL-BID/transformar-docs)
+4. 💪 Opened PR [#3](https://github.com/EL-BID/transformar-docs/pull/3) in [EL-BID/transformar-docs](https://github.com/EL-BID/transformar-docs)
+5. ❗️ Closed issue [#14](https://github.com/EL-BID/transformar-backend/issues/14) in [EL-BID/transformar-backend](https://github.com/EL-BID/transformar-backend)
 <!--END_SECTION:activity-->
 
 ---
