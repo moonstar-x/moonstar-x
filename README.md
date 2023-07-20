@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.2](https://github.com/moonstar-x/automation-service/releases/tag/v1.1.2) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
-2. 🎉 Merged PR [#3](https://github.com/moonstar-x/automation-service/pull/3) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
-3. 💪 Opened PR [#3](https://github.com/moonstar-x/automation-service/pull/3) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
-4. 🗣 Commented on [#70](https://github.com/jamesgeorge007/github-activity-readme/issues/70#issuecomment-1569187792) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🔒 Closed issue [#11](https://github.com/EL-BID/transformar-webapp/issues/11) in [EL-BID/transformar-webapp](https://github.com/EL-BID/transformar-webapp)
+1. 🚀 Published release [v0.0.3](https://github.com/greencoast-studios/eslint-config-greencoast/releases/tag/v0.0.3) in [greencoast-studios/eslint-config-greencoast](https://github.com/greencoast-studios/eslint-config-greencoast)
+2. 🎉 Merged PR [#1](https://github.com/greencoast-studios/eslint-config-greencoast/pull/1) in [greencoast-studios/eslint-config-greencoast](https://github.com/greencoast-studios/eslint-config-greencoast)
+3. 💪 Opened PR [#1](https://github.com/greencoast-studios/eslint-config-greencoast/pull/1) in [greencoast-studios/eslint-config-greencoast](https://github.com/greencoast-studios/eslint-config-greencoast)
+4. 🚀 Published release [v1.1.2](https://github.com/moonstar-x/automation-service/releases/tag/v1.1.2) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
+5. 🎉 Merged PR [#3](https://github.com/moonstar-x/automation-service/pull/3) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
 <!--END_SECTION:activity-->
 
 ---
