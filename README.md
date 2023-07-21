@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/greencoast-studios/node-logger/pull/9) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
-2. ❌ Closed PR [#8](https://github.com/greencoast-studios/node-logger/pull/8) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
-3. ❌ Closed PR [#7](https://github.com/greencoast-studios/node-logger/pull/7) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
-4. ❌ Closed PR [#6](https://github.com/greencoast-studios/node-logger/pull/6) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
-5. ❌ Closed PR [#5](https://github.com/greencoast-studios/node-logger/pull/5) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
+1. 🎉 Merged PR [#4](https://github.com/moonstar-x/automation-service/pull/4) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
+2. 💪 Opened PR [#4](https://github.com/moonstar-x/automation-service/pull/4) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
+3. ❌ Closed PR [#9](https://github.com/greencoast-studios/node-logger/pull/9) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
+4. ❌ Closed PR [#8](https://github.com/greencoast-studios/node-logger/pull/8) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
+5. ❌ Closed PR [#7](https://github.com/greencoast-studios/node-logger/pull/7) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
 <!--END_SECTION:activity-->
 
 ---
