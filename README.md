@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/moonstar-x/automation-service/pull/4) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
-2. 💪 Opened PR [#4](https://github.com/moonstar-x/automation-service/pull/4) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
-3. ❌ Closed PR [#9](https://github.com/greencoast-studios/node-logger/pull/9) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
-4. ❌ Closed PR [#8](https://github.com/greencoast-studios/node-logger/pull/8) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
-5. ❌ Closed PR [#7](https://github.com/greencoast-studios/node-logger/pull/7) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
+1. 🚀 Published release [v1.1.1](https://github.com/greencoast-studios/node-logger/releases/tag/v1.1.1) in [greencoast-studios/node-logger](https://github.com/greencoast-studios/node-logger)
+2. 🚀 Published release [v0.0.4](https://github.com/greencoast-studios/eslint-config-greencoast/releases/tag/v0.0.4) in [greencoast-studios/eslint-config-greencoast](https://github.com/greencoast-studios/eslint-config-greencoast)
+3. 🚀 Published release [v1.2.0](https://github.com/moonstar-x/automation-service/releases/tag/v1.2.0) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
+4. 🎉 Merged PR [#4](https://github.com/moonstar-x/automation-service/pull/4) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
+5. 💪 Opened PR [#4](https://github.com/moonstar-x/automation-service/pull/4) in [moonstar-x/automation-service](https://github.com/moonstar-x/automation-service)
 <!--END_SECTION:activity-->
 
 ---
