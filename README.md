@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.0](https://github.com/greencoast-studios/discord.js-extended/releases/tag/v3.0.0) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-2. 🔒 Closed issue [#66](https://github.com/greencoast-studios/discord.js-extended/issues/66) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-3. 🗣 Commented on [#66](https://github.com/greencoast-studios/discord.js-extended/issues/66#issuecomment-1646764407) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 🎉 Merged PR [#70](https://github.com/greencoast-studios/discord.js-extended/pull/70) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 💪 Opened PR [#70](https://github.com/greencoast-studios/discord.js-extended/pull/70) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. 🚀 Published release [v3.0.1](https://github.com/greencoast-studios/discord.js-extended/releases/tag/v3.0.1) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+2. 🎉 Merged PR [#72](https://github.com/greencoast-studios/discord.js-extended/pull/72) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+3. 💪 Opened PR [#72](https://github.com/greencoast-studios/discord.js-extended/pull/72) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+4. 🎉 Merged PR [#71](https://github.com/greencoast-studios/discord.js-extended/pull/71) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 💪 Opened PR [#71](https://github.com/greencoast-studios/discord.js-extended/pull/71) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
