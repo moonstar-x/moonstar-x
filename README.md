@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/greencoast-studios/djs-extended-data-provider-redis/releases/tag/v1.0.0) in [greencoast-studios/djs-extended-data-provider-redis](https://github.com/greencoast-studios/djs-extended-data-provider-redis)
-2. 🚀 Published release [v1.0.0](https://github.com/greencoast-studios/djs-extended-data-provider-level/releases/tag/v1.0.0) in [greencoast-studios/djs-extended-data-provider-level](https://github.com/greencoast-studios/djs-extended-data-provider-level)
-3. 🚀 Published release [v3.0.1](https://github.com/greencoast-studios/discord.js-extended/releases/tag/v3.0.1) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-4. 🎉 Merged PR [#72](https://github.com/greencoast-studios/discord.js-extended/pull/72) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
-5. 💪 Opened PR [#72](https://github.com/greencoast-studios/discord.js-extended/pull/72) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. 🚀 Published release [v1.0.1](https://github.com/greencoast-studios/djs-extended-data-provider-level/releases/tag/v1.0.1) in [greencoast-studios/djs-extended-data-provider-level](https://github.com/greencoast-studios/djs-extended-data-provider-level)
+2. 🚀 Published release [v1.0.0](https://github.com/greencoast-studios/djs-extended-data-provider-redis/releases/tag/v1.0.0) in [greencoast-studios/djs-extended-data-provider-redis](https://github.com/greencoast-studios/djs-extended-data-provider-redis)
+3. 🚀 Published release [v1.0.0](https://github.com/greencoast-studios/djs-extended-data-provider-level/releases/tag/v1.0.0) in [greencoast-studios/djs-extended-data-provider-level](https://github.com/greencoast-studios/djs-extended-data-provider-level)
+4. 🚀 Published release [v3.0.1](https://github.com/greencoast-studios/discord.js-extended/releases/tag/v3.0.1) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+5. 🎉 Merged PR [#72](https://github.com/greencoast-studios/discord.js-extended/pull/72) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
 <!--END_SECTION:activity-->
 
 ---
