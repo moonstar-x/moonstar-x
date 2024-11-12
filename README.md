@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.5](https://github.com/greencoast-studios/eslint-config-greencoast/releases/tag/v0.0.5) in [greencoast-studios/eslint-config-greencoast](https://github.com/greencoast-studios/eslint-config-greencoast)
-2. 🚀 Published release [v1.0.1](https://github.com/greencoast-studios/djs-extended-data-provider-level/releases/tag/v1.0.1) in [greencoast-studios/djs-extended-data-provider-level](https://github.com/greencoast-studios/djs-extended-data-provider-level)
-3. 🚀 Published release [v1.0.0](https://github.com/greencoast-studios/djs-extended-data-provider-redis/releases/tag/v1.0.0) in [greencoast-studios/djs-extended-data-provider-redis](https://github.com/greencoast-studios/djs-extended-data-provider-redis)
-4. 🚀 Published release [v1.0.0](https://github.com/greencoast-studios/djs-extended-data-provider-level/releases/tag/v1.0.0) in [greencoast-studios/djs-extended-data-provider-level](https://github.com/greencoast-studios/djs-extended-data-provider-level)
-5. 🚀 Published release [v3.0.1](https://github.com/greencoast-studios/discord.js-extended/releases/tag/v3.0.1) in [greencoast-studios/discord.js-extended](https://github.com/greencoast-studios/discord.js-extended)
+1. 🎉 Merged PR [#59](https://github.com/starpep-web/web-frontend/pull/59) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
+2. 💪 Opened PR [#59](https://github.com/starpep-web/web-frontend/pull/59) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
+3. 🎉 Merged PR [#7](https://github.com/starpep-web/api-bio/pull/7) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
+4. 💪 Opened PR [#7](https://github.com/starpep-web/api-bio/pull/7) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
+5. 🗣 Commented on [#233](https://github.com/glanceapp/glance/issues/233#issuecomment-2405342971) in [glanceapp/glance](https://github.com/glanceapp/glance)
 <!--END_SECTION:activity-->
 
 ---
