@@ -27,11 +27,11 @@ Hey, I'm Christian, a computer science student at the [Universidad San Francisco
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/starpep-web/web-frontend/pull/59) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
-2. 💪 Opened PR [#59](https://github.com/starpep-web/web-frontend/pull/59) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
-3. 🎉 Merged PR [#7](https://github.com/starpep-web/api-bio/pull/7) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
-4. 💪 Opened PR [#7](https://github.com/starpep-web/api-bio/pull/7) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
-5. 🗣 Commented on [#233](https://github.com/glanceapp/glance/issues/233#issuecomment-2405342971) in [glanceapp/glance](https://github.com/glanceapp/glance)
+1. ❗ Opened issue [#2](https://github.com/moonstar-x/free-games-crawler/issues/2) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
+2. 🎉 Merged PR [#59](https://github.com/starpep-web/web-frontend/pull/59) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
+3. 💪 Opened PR [#59](https://github.com/starpep-web/web-frontend/pull/59) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
+4. 🎉 Merged PR [#7](https://github.com/starpep-web/api-bio/pull/7) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
+5. 💪 Opened PR [#7](https://github.com/starpep-web/api-bio/pull/7) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
 <!--END_SECTION:activity-->
 
 ---
