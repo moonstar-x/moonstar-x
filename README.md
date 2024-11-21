@@ -15,11 +15,11 @@ I'm Christian, a software developer with a passion for programming from Quito, E
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/moonstar-x/free-games-crawler/issues/2) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
-2. 🎉 Merged PR [#59](https://github.com/starpep-web/web-frontend/pull/59) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
-3. 💪 Opened PR [#59](https://github.com/starpep-web/web-frontend/pull/59) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
-4. 🎉 Merged PR [#7](https://github.com/starpep-web/api-bio/pull/7) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
-5. 💪 Opened PR [#7](https://github.com/starpep-web/api-bio/pull/7) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
+1. 🗣 Commented on [#28](https://github.com/moonstar-x/discord-free-games-notifier/issues/28#issuecomment-2489641329) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+2. 🔒 Closed issue [#28](https://github.com/moonstar-x/discord-free-games-notifier/issues/28) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+3. 🎉 Merged PR [#29](https://github.com/moonstar-x/discord-free-games-notifier/pull/29) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+4. 💪 Opened PR [#29](https://github.com/moonstar-x/discord-free-games-notifier/pull/29) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+5. ❗ Opened issue [#2](https://github.com/moonstar-x/free-games-crawler/issues/2) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
