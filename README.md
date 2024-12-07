@@ -15,11 +15,11 @@ I'm Christian, a software developer with a passion for programming from Quito, E
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/starpep-web/meta-application-help/issues/2) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
-2. ❗ Opened issue [#1](https://github.com/starpep-web/meta-application-help/issues/1) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
-3. 🚀 Published release [v3.0.2](https://github.com/moonstar-x/discord-free-games-notifier/releases/tag/v3.0.2) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-4. 🗣 Commented on [#20](https://github.com/moonstar-x/discord-free-games-notifier/issues/20#issuecomment-2489653946) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-5. 🔒 Closed issue [#20](https://github.com/moonstar-x/discord-free-games-notifier/issues/20) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+1. ❗ Opened issue [#5](https://github.com/starpep-web/meta-application-help/issues/5) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
+2. ❗ Opened issue [#4](https://github.com/starpep-web/meta-application-help/issues/4) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
+3. ❗ Opened issue [#3](https://github.com/starpep-web/meta-application-help/issues/3) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
+4. ❗ Opened issue [#2](https://github.com/starpep-web/meta-application-help/issues/2) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
+5. ❗ Opened issue [#1](https://github.com/starpep-web/meta-application-help/issues/1) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
