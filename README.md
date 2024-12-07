@@ -15,11 +15,11 @@ I'm Christian, a software developer with a passion for programming from Quito, E
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.2](https://github.com/moonstar-x/discord-free-games-notifier/releases/tag/v3.0.2) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-2. 🗣 Commented on [#20](https://github.com/moonstar-x/discord-free-games-notifier/issues/20#issuecomment-2489653946) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-3. 🔒 Closed issue [#20](https://github.com/moonstar-x/discord-free-games-notifier/issues/20) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-4. ❗ Opened issue [#5](https://github.com/moonstar-x/free-games-crawler/issues/5) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
-5. 🗣 Commented on [#17](https://github.com/moonstar-x/discord-free-games-notifier/issues/17#issuecomment-2489651835) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+1. ❗ Opened issue [#2](https://github.com/starpep-web/meta-application-help/issues/2) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
+2. ❗ Opened issue [#1](https://github.com/starpep-web/meta-application-help/issues/1) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
+3. 🚀 Published release [v3.0.2](https://github.com/moonstar-x/discord-free-games-notifier/releases/tag/v3.0.2) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+4. 🗣 Commented on [#20](https://github.com/moonstar-x/discord-free-games-notifier/issues/20#issuecomment-2489653946) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+5. 🔒 Closed issue [#20](https://github.com/moonstar-x/discord-free-games-notifier/issues/20) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
