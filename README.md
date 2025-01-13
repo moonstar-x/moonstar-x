@@ -15,11 +15,11 @@ I'm Christian, a software developer with a passion for programming from Quito, E
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/moonstar-x/discord-tts-bot/pull/101#issuecomment-2573071898) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-2. 🚀 Published release [v1.0.2](https://github.com/moonstar-x/free-games-crawler/releases/tag/v1.0.2) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
-3. 🎉 Merged PR [#6](https://github.com/moonstar-x/free-games-crawler/pull/6) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
-4. 🔒 Closed issue [#1](https://github.com/moonstar-x/free-games-crawler/issues/1) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
-5. 💪 Opened PR [#6](https://github.com/moonstar-x/free-games-crawler/pull/6) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
+1. ❗ Opened issue [#7](https://github.com/starpep-web/meta-application-help/issues/7) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
+2. ❗ Opened issue [#6](https://github.com/starpep-web/meta-application-help/issues/6) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
+3. 🗣 Commented on [#101](https://github.com/moonstar-x/discord-tts-bot/pull/101#issuecomment-2573071898) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+4. 🚀 Published release [v1.0.2](https://github.com/moonstar-x/free-games-crawler/releases/tag/v1.0.2) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
+5. 🎉 Merged PR [#6](https://github.com/moonstar-x/free-games-crawler/pull/6) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
