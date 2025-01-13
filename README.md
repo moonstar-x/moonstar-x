@@ -15,11 +15,11 @@ I'm Christian, a software developer with a passion for programming from Quito, E
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/starpep-web/meta-application-help/issues/7) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
-2. ❗ Opened issue [#6](https://github.com/starpep-web/meta-application-help/issues/6) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
-3. 🗣 Commented on [#101](https://github.com/moonstar-x/discord-tts-bot/pull/101#issuecomment-2573071898) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-4. 🚀 Published release [v1.0.2](https://github.com/moonstar-x/free-games-crawler/releases/tag/v1.0.2) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
-5. 🎉 Merged PR [#6](https://github.com/moonstar-x/free-games-crawler/pull/6) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
+1. 🎉 Merged PR [#60](https://github.com/starpep-web/web-frontend/pull/60) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
+2. 💪 Opened PR [#60](https://github.com/starpep-web/web-frontend/pull/60) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
+3. 🎉 Merged PR [#1](https://github.com/starpep-web/env-production/pull/1) in [starpep-web/env-production](https://github.com/starpep-web/env-production)
+4. 💪 Opened PR [#1](https://github.com/starpep-web/env-production/pull/1) in [starpep-web/env-production](https://github.com/starpep-web/env-production)
+5. ❗ Opened issue [#7](https://github.com/starpep-web/meta-application-help/issues/7) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
