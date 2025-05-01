@@ -15,7 +15,7 @@ I'm Christian, a software developer with a passion for programming from Quito, E
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/starpep-web/web-frontend/pull/62) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
+1. ❗ Opened issue [#8](https://github.com/starpep-web/meta-application-help/issues/8) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
 2. 🎉 Merged PR [#8](https://github.com/starpep-web/api-bio/pull/8) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
 3. 💪 Opened PR [#62](https://github.com/starpep-web/web-frontend/pull/62) in [starpep-web/web-frontend](https://github.com/starpep-web/web-frontend)
 4. 🎉 Merged PR [#1](https://github.com/starpep-web/api-service/pull/1) in [starpep-web/api-service](https://github.com/starpep-web/api-service)
