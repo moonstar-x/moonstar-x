@@ -15,10 +15,10 @@ I'm Christian, a software developer with a passion for programming from Quito, E
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/moonstar-x/server-setup/pull/4) in [moonstar-x/server-setup](https://github.com/moonstar-x/server-setup)
-2. 💪 Opened PR [#4](https://github.com/moonstar-x/server-setup/pull/4) in [moonstar-x/server-setup](https://github.com/moonstar-x/server-setup)
-3. ❗ Opened issue [#8](https://github.com/starpep-web/meta-application-help/issues/8) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
-4. 🎉 Merged PR [#1](https://github.com/starpep-web/api-service/pull/1) in [starpep-web/api-service](https://github.com/starpep-web/api-service)
+1. ❗ Opened issue [#8](https://github.com/moonstar-x/free-games-crawler/issues/8) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
+2. 🎉 Merged PR [#4](https://github.com/moonstar-x/server-setup/pull/4) in [moonstar-x/server-setup](https://github.com/moonstar-x/server-setup)
+3. 💪 Opened PR [#4](https://github.com/moonstar-x/server-setup/pull/4) in [moonstar-x/server-setup](https://github.com/moonstar-x/server-setup)
+4. ❗ Opened issue [#8](https://github.com/starpep-web/meta-application-help/issues/8) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
 5. 💪 Opened PR [#8](https://github.com/starpep-web/api-bio/pull/8) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
 <!--END_SECTION:activity-->
 
