@@ -15,11 +15,11 @@ I'm Christian, a software developer with a passion for programming from Quito, E
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [test](https://github.com/moonstar-x/test-release-ci/releases/tag/test) in [moonstar-x/test-release-ci](https://github.com/moonstar-x/test-release-ci)
-2. 🚀 Published release [manual](https://github.com/moonstar-x/test-release-ci/releases/tag/manual) in [moonstar-x/test-release-ci](https://github.com/moonstar-x/test-release-ci)
-3. ❗ Opened issue [#8](https://github.com/moonstar-x/free-games-crawler/issues/8) in [moonstar-x/free-games-crawler](https://github.com/moonstar-x/free-games-crawler)
-4. ❗ Opened issue [#8](https://github.com/starpep-web/meta-application-help/issues/8) in [starpep-web/meta-application-help](https://github.com/starpep-web/meta-application-help)
-5. 💪 Opened PR [#8](https://github.com/starpep-web/api-bio/pull/8) in [starpep-web/api-bio](https://github.com/starpep-web/api-bio)
+1. 🚀 Published release [v2.0.0](https://github.com/moonstar-x/test-release-ci/releases/tag/v2.0.0) in [moonstar-x/test-release-ci](https://github.com/moonstar-x/test-release-ci)
+2. 🚀 Published release [manual-3](https://github.com/moonstar-x/test-release-ci/releases/tag/manual-3) in [moonstar-x/test-release-ci](https://github.com/moonstar-x/test-release-ci)
+3. 🚀 Published release [manual-2](https://github.com/moonstar-x/test-release-ci/releases/tag/manual-2) in [moonstar-x/test-release-ci](https://github.com/moonstar-x/test-release-ci)
+4. 🚀 Published release [test](https://github.com/moonstar-x/test-release-ci/releases/tag/test) in [moonstar-x/test-release-ci](https://github.com/moonstar-x/test-release-ci)
+5. 🚀 Published release [manual](https://github.com/moonstar-x/test-release-ci/releases/tag/manual) in [moonstar-x/test-release-ci](https://github.com/moonstar-x/test-release-ci)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
