@@ -4,6 +4,8 @@
 
 I'm Christian, a software developer with a passion for programming from Quito, Ecuador. Currently working as a semi senior software developer at [Devsu](https://devsu.com) and a Computer Science Engineer by the [Universidad San Francisco de Quito](https://usfq.edu.ec).
 
+Currently learning about AI integration in software and Smart Contract development on the Ethereum network. 🔥
+
 ## :star: Let's Connect
 
 [![Discord](https://img.shields.io/badge/Join%20my%20Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mhj3Zsv)
