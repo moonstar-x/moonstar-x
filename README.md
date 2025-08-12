@@ -17,11 +17,11 @@ Currently learning about AI integration in software and Smart Contract developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/moonstar-x/discord-tts-bot/pull/101#issuecomment-3177417374) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-2. ❌ Closed PR [#80](https://github.com/moonstar-x/discord-tts-bot/pull/80) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-3. ❌ Closed PR [#86](https://github.com/moonstar-x/discord-tts-bot/pull/86) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-4. ❌ Closed PR [#87](https://github.com/moonstar-x/discord-tts-bot/pull/87) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
-5. ❌ Closed PR [#88](https://github.com/moonstar-x/discord-tts-bot/pull/88) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+1. 🚀 Published release [v4.2.0](https://github.com/moonstar-x/discord-tts-bot/releases/tag/v4.2.0) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 🗣 Commented on [#101](https://github.com/moonstar-x/discord-tts-bot/pull/101#issuecomment-3177417374) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+3. ❌ Closed PR [#80](https://github.com/moonstar-x/discord-tts-bot/pull/80) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+4. ❌ Closed PR [#86](https://github.com/moonstar-x/discord-tts-bot/pull/86) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+5. ❌ Closed PR [#87](https://github.com/moonstar-x/discord-tts-bot/pull/87) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
