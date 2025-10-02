@@ -17,10 +17,10 @@ Currently learning about AI integration in software and Smart Contract developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/carlos-israelj/Ethereum-Developer-Pack-UIO/pull/2) in [carlos-israelj/Ethereum-Developer-Pack-UIO](https://github.com/carlos-israelj/Ethereum-Developer-Pack-UIO)
-2. 💪 Opened PR [#1](https://github.com/carlos-israelj/Ethereum-Developer-Pack-UIO/pull/1) in [carlos-israelj/Ethereum-Developer-Pack-UIO](https://github.com/carlos-israelj/Ethereum-Developer-Pack-UIO)
-3. 🎉 Merged PR [#1](https://github.com/moonstar-x/ci-test/pull/1) in [moonstar-x/ci-test](https://github.com/moonstar-x/ci-test)
-4. 💪 Opened PR [#1](https://github.com/moonstar-x/ci-test/pull/1) in [moonstar-x/ci-test](https://github.com/moonstar-x/ci-test)
+1. 🗣 Commented on [#103](https://github.com/moonstar-x/discord-tts-bot/pull/103#issuecomment-3362022732) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. ❌ Closed PR [#103](https://github.com/moonstar-x/discord-tts-bot/pull/103) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+3. 💪 Opened PR [#2](https://github.com/carlos-israelj/Ethereum-Developer-Pack-UIO/pull/2) in [carlos-israelj/Ethereum-Developer-Pack-UIO](https://github.com/carlos-israelj/Ethereum-Developer-Pack-UIO)
+4. 💪 Opened PR [#1](https://github.com/carlos-israelj/Ethereum-Developer-Pack-UIO/pull/1) in [carlos-israelj/Ethereum-Developer-Pack-UIO](https://github.com/carlos-israelj/Ethereum-Developer-Pack-UIO)
 5. 🚀 Published release [v4.2.0](https://github.com/moonstar-x/discord-tts-bot/releases/tag/v4.2.0) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
