@@ -18,10 +18,10 @@ Currently learning about AI integration in software and Smart Contract developme
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v2.0](https://github.com/moonstar-x/eth-kipu-bank/releases/tag/v2.0) in [moonstar-x/eth-kipu-bank](https://github.com/moonstar-x/eth-kipu-bank)
-2. 🎉 Merged PR [#1](https://github.com/moonstar-x/eth-kipu-bank/pull/1) in [moonstar-x/eth-kipu-bank](https://github.com/moonstar-x/eth-kipu-bank)
-3. 💪 Opened PR [#1](https://github.com/moonstar-x/eth-kipu-bank/pull/1) in [moonstar-x/eth-kipu-bank](https://github.com/moonstar-x/eth-kipu-bank)
-4. 🚀 Published release [v1.0](https://github.com/moonstar-x/eth-kipu-bank/releases/tag/v1.0) in [moonstar-x/eth-kipu-bank](https://github.com/moonstar-x/eth-kipu-bank)
-5. 🗣 Commented on [#103](https://github.com/moonstar-x/discord-tts-bot/pull/103#issuecomment-3362022732) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+2. 💪 Opened PR [#1](undefined) in [moonstar-x/eth-kipu-bank](https://github.com/moonstar-x/eth-kipu-bank)
+3. 🚀 Published release [v1.0](https://github.com/moonstar-x/eth-kipu-bank/releases/tag/v1.0) in [moonstar-x/eth-kipu-bank](https://github.com/moonstar-x/eth-kipu-bank)
+4. 🗣 Commented on [#103](https://github.com/moonstar-x/discord-tts-bot/pull/103#issuecomment-3362022732) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
+5. ❌ Closed PR [#103](undefined) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
