@@ -17,8 +17,8 @@ Currently learning about AI integration in software and Smart Contract developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#30](https://github.com/moonstar-x/discord-free-games-notifier/issues/30) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
-2.  Labeled issue [#30](https://github.com/moonstar-x/discord-free-games-notifier/issues/30) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+1. ℹ️ Labeled issue [#30](https://github.com/moonstar-x/discord-free-games-notifier/issues/30) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
+2. ℹ️ Labeled issue [#30](https://github.com/moonstar-x/discord-free-games-notifier/issues/30) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
 3. ❗ Opened issue [#30](https://github.com/moonstar-x/discord-free-games-notifier/issues/30) in [moonstar-x/discord-free-games-notifier](https://github.com/moonstar-x/discord-free-games-notifier)
 4. 🗣 Commented on [#103](https://github.com/moonstar-x/discord-tts-bot/pull/103#issuecomment-3362022732) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
 5. ❌ Closed PR [#103](undefined) in [moonstar-x/discord-tts-bot](https://github.com/moonstar-x/discord-tts-bot)
