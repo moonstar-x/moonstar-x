@@ -17,11 +17,11 @@ Currently learning about AI integration in software and Smart Contract developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/moonstar-x-libs/node-logger/pull/12) in [moonstar-x-libs/node-logger](https://github.com/moonstar-x-libs/node-logger)
-2. ❌ Closed PR [#11](https://github.com/moonstar-x-libs/node-logger/pull/11) in [moonstar-x-libs/node-logger](https://github.com/moonstar-x-libs/node-logger)
-3. 🚀 Published release [v2.0.0](https://github.com/moonstar-x-libs/eslint-config-moonstar-x/releases/tag/v2.0.0) in [moonstar-x-libs/eslint-config-moonstar-x](https://github.com/moonstar-x-libs/eslint-config-moonstar-x)
-4. 🎉 Merged PR [#5](https://github.com/moonstar-x-libs/eslint-config-moonstar-x/pull/5) in [moonstar-x-libs/eslint-config-moonstar-x](https://github.com/moonstar-x-libs/eslint-config-moonstar-x)
-5. 💪 Opened PR [#5](https://github.com/moonstar-x-libs/eslint-config-moonstar-x/pull/5) in [moonstar-x-libs/eslint-config-moonstar-x](https://github.com/moonstar-x-libs/eslint-config-moonstar-x)
+1. 🚀 Published release [v2.0.0](https://github.com/moonstar-x-libs/node-logger/releases/tag/v2.0.0) in [moonstar-x-libs/node-logger](https://github.com/moonstar-x-libs/node-logger)
+2. 🎉 Merged PR [#13](https://github.com/moonstar-x-libs/node-logger/pull/13) in [moonstar-x-libs/node-logger](https://github.com/moonstar-x-libs/node-logger)
+3. 💪 Opened PR [#13](https://github.com/moonstar-x-libs/node-logger/pull/13) in [moonstar-x-libs/node-logger](https://github.com/moonstar-x-libs/node-logger)
+4. ❌ Closed PR [#12](https://github.com/moonstar-x-libs/node-logger/pull/12) in [moonstar-x-libs/node-logger](https://github.com/moonstar-x-libs/node-logger)
+5. ❌ Closed PR [#11](https://github.com/moonstar-x-libs/node-logger/pull/11) in [moonstar-x-libs/node-logger](https://github.com/moonstar-x-libs/node-logger)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
