@@ -17,11 +17,11 @@ Currently learning about AI integration in software and Smart Contract developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/moonstar-x-bot/jev-issue-triage/issues/3) in [moonstar-x-bot/jev-issue-triage](https://github.com/moonstar-x-bot/jev-issue-triage)
-2. ❗ Opened issue [#2](https://github.com/moonstar-x-bot/jev-issue-triage/issues/2) in [moonstar-x-bot/jev-issue-triage](https://github.com/moonstar-x-bot/jev-issue-triage)
-3. 🚀 Published release [v3.1.0](https://github.com/moonstar-x-libs/react-twitch-embed/releases/tag/v3.1.0) in [moonstar-x-libs/react-twitch-embed](https://github.com/moonstar-x-libs/react-twitch-embed)
-4. 🎉 Merged PR [#41](https://github.com/moonstar-x-libs/react-twitch-embed/pull/41) in [moonstar-x-libs/react-twitch-embed](https://github.com/moonstar-x-libs/react-twitch-embed)
-5. 💪 Opened PR [#41](https://github.com/moonstar-x-libs/react-twitch-embed/pull/41) in [moonstar-x-libs/react-twitch-embed](https://github.com/moonstar-x-libs/react-twitch-embed)
+1. 🎉 Merged PR [#6](https://github.com/moonstar-x/moonstar-x.github.io/pull/6) in [moonstar-x/moonstar-x.github.io](https://github.com/moonstar-x/moonstar-x.github.io)
+2. 💪 Opened PR [#6](https://github.com/moonstar-x/moonstar-x.github.io/pull/6) in [moonstar-x/moonstar-x.github.io](https://github.com/moonstar-x/moonstar-x.github.io)
+3. ❗ Opened issue [#3](https://github.com/moonstar-x-bot/jev-issue-triage/issues/3) in [moonstar-x-bot/jev-issue-triage](https://github.com/moonstar-x-bot/jev-issue-triage)
+4. ❗ Opened issue [#2](https://github.com/moonstar-x-bot/jev-issue-triage/issues/2) in [moonstar-x-bot/jev-issue-triage](https://github.com/moonstar-x-bot/jev-issue-triage)
+5. 🚀 Published release [v3.1.0](https://github.com/moonstar-x-libs/react-twitch-embed/releases/tag/v3.1.0) in [moonstar-x-libs/react-twitch-embed](https://github.com/moonstar-x-libs/react-twitch-embed)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
