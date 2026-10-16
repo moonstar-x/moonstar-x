@@ -17,11 +17,11 @@ Currently learning about AI integration in software and Smart Contract developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/moonstar-x/hackathon-expo-clean/pull/10) in [moonstar-x/hackathon-expo-clean](https://github.com/moonstar-x/hackathon-expo-clean)
-2. ❗ Opened issue [#6](https://github.com/moonstar-x/hackathon-expo-clean/issues/6) in [moonstar-x/hackathon-expo-clean](https://github.com/moonstar-x/hackathon-expo-clean)
-3. ❗ Opened issue [#13](https://github.com/moonstar-x/hackathon-expo-clean/issues/13) in [moonstar-x/hackathon-expo-clean](https://github.com/moonstar-x/hackathon-expo-clean)
-4. ❗ Opened issue [#9](https://github.com/moonstar-x/hackathon-expo-clean/issues/9) in [moonstar-x/hackathon-expo-clean](https://github.com/moonstar-x/hackathon-expo-clean)
-5. ❗ Opened issue [#2](https://github.com/moonstar-x/hackathon-expo-clean/issues/2) in [moonstar-x/hackathon-expo-clean](https://github.com/moonstar-x/hackathon-expo-clean)
+1. 🎉 Merged PR [#3](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils/pull/3) in [moonstar-x-libs/ComfyUI-SimpleUtils](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils)
+2. 🚀 Published release [v0.0.3](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils/releases/tag/v0.0.3) in [moonstar-x-libs/ComfyUI-SimpleUtils](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils)
+3. 💪 Opened PR [#3](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils/pull/3) in [moonstar-x-libs/ComfyUI-SimpleUtils](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils)
+4. 🚀 Published release [v0.0.2](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils/releases/tag/v0.0.2) in [moonstar-x-libs/ComfyUI-SimpleUtils](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils)
+5. 🎉 Merged PR [#2](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils/pull/2) in [moonstar-x-libs/ComfyUI-SimpleUtils](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
