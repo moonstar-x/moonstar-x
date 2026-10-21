@@ -17,11 +17,11 @@ Currently learning about AI integration in software and Smart Contract developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/moonstar-x/comfyui-abstract/pull/1) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
-2. 💪 Opened PR [#1](https://github.com/moonstar-x/comfyui-abstract/pull/1) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
-3. 🎉 Merged PR [#3](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils/pull/3) in [moonstar-x-libs/ComfyUI-SimpleUtils](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils)
-4. 🚀 Published release [v0.0.3](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils/releases/tag/v0.0.3) in [moonstar-x-libs/ComfyUI-SimpleUtils](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils)
-5. 💪 Opened PR [#3](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils/pull/3) in [moonstar-x-libs/ComfyUI-SimpleUtils](https://github.com/moonstar-x-libs/ComfyUI-SimpleUtils)
+1. 🚀 Published release [v0.0.1](https://github.com/moonstar-x/comfyui-abstract/releases/tag/v0.0.1) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
+2. ❗ Opened issue [#10](https://github.com/moonstar-x/comfyui-abstract/issues/10) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
+3. ❗ Opened issue [#9](https://github.com/moonstar-x/comfyui-abstract/issues/9) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
+4. ❗ Opened issue [#8](https://github.com/moonstar-x/comfyui-abstract/issues/8) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
+5. ❗ Opened issue [#7](https://github.com/moonstar-x/comfyui-abstract/issues/7) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
