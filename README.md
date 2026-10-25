@@ -17,11 +17,11 @@ Currently learning about AI integration in software and Smart Contract developme
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/moonstar-x/comfyui-abstract/issues/14) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
-2. ❗ Opened issue [#11](https://github.com/moonstar-x/comfyui-abstract/issues/11) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
-3. 🚀 Published release [v0.0.3](https://github.com/moonstar-x/cloudflare-dns-auto-update/releases/tag/v0.0.3) in [moonstar-x/cloudflare-dns-auto-update](https://github.com/moonstar-x/cloudflare-dns-auto-update)
-4. 🎉 Merged PR [#4](https://github.com/moonstar-x/cloudflare-dns-auto-update/pull/4) in [moonstar-x/cloudflare-dns-auto-update](https://github.com/moonstar-x/cloudflare-dns-auto-update)
-5. 💪 Opened PR [#4](https://github.com/moonstar-x/cloudflare-dns-auto-update/pull/4) in [moonstar-x/cloudflare-dns-auto-update](https://github.com/moonstar-x/cloudflare-dns-auto-update)
+1. ❗ Opened issue [#15](https://github.com/moonstar-x/comfyui-abstract/issues/15) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
+2. ❗ Opened issue [#14](https://github.com/moonstar-x/comfyui-abstract/issues/14) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
+3. ❗ Opened issue [#11](https://github.com/moonstar-x/comfyui-abstract/issues/11) in [moonstar-x/comfyui-abstract](https://github.com/moonstar-x/comfyui-abstract)
+4. 🚀 Published release [v0.0.3](https://github.com/moonstar-x/cloudflare-dns-auto-update/releases/tag/v0.0.3) in [moonstar-x/cloudflare-dns-auto-update](https://github.com/moonstar-x/cloudflare-dns-auto-update)
+5. 🎉 Merged PR [#4](https://github.com/moonstar-x/cloudflare-dns-auto-update/pull/4) in [moonstar-x/cloudflare-dns-auto-update](https://github.com/moonstar-x/cloudflare-dns-auto-update)
 <!--END_SECTION:activity-->
 
 ## :musical_note: My Scrobbles
